@@ -1,0 +1,312 @@
+::-webkit-scrollbar {
+	display: none;
+}
+@font-face {
+	font-family: avenger;
+	src: url('font/AVENGEANCE HEROIC AVENGER.otf');
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+.main {
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	background: white;
+	transition: 5s linear;
+	z-index: 0;
+}
+#navigation {
+	position: absolute;
+	width: 13vw;
+	right: 1vw;
+	z-index: 3;
+	transition: 0.2s ease-out;
+}
+#navigation > img {
+	width: 100%;
+	animation: navigation 10s ease-in-out infinite;
+}
+@keyframes navigation {
+	0% {
+		transform: rotateX(0deg) rotateY(0deg) scale(1) translateX(-2vw);
+	}
+	50% {
+		transform: rotateX(15deg) rotateY(15deg) scale(1.2) translateX(0);
+	}
+	100% {
+		transform: rotateX(0deg) rotateY(0deg) scale(1) translateX(-2vw);
+	}
+}
+#navigation > .ncontent {
+	position: relative;
+	width: 12vw;
+	height: 0vh;
+	right: 1vw;
+	top: -15vh;
+	background-image: url(img/image0b.png);
+	background-size: 100% 100%;
+	opacity: 0.9;
+	border-radius: 1.5vw;
+	overflow: hidden;
+	transition: 0.5s;
+}
+#navigation > .ncontent > p {
+	position: relative;
+	left: 2.2vw;
+	font-family: avenger;
+	letter-spacing: 0.13vw;
+	color: rgb(138, 0, 0);
+	font-size: 1.5vw;
+}
+#navigation > .ncontent > ul {
+	list-style: none;
+	padding-left: 3.5vw;
+}
+#navigation > .ncontent > ul > li {
+	position: relative;
+	top: -1vh;
+	margin: 0;
+	margin-top: 2vh;
+	margin-left: 0%;
+	width: 80%;
+}
+#navigation > .ncontent > ul li:before {
+	content: '\2604';
+	color: white;
+	font-weight: 900;
+	display: inline-block;
+	width: 20%;
+	margin-left: -18%;
+}
+#navigation > .ncontent > ul > li > a {
+	text-decoration: none;
+	font-family: avenger;
+	letter-spacing: 0.07vw;
+	color: white;
+	font-size: 2.3vh;
+}
+.header {
+	position: relative;
+	width: 100%;
+	height: 100vh;
+}
+.header > img {
+	position: absolute;
+	width: 100%;
+	height: 100vh;
+	object-fit: fill;
+}
+#htitle {
+	position: absolute;
+	width: 100%;
+	height: 0vh;
+	top: 50vh;
+	background: #000000a4;
+	overflow: hidden;
+	transition: 1s ease-in;
+	transition-delay: 1s;
+}
+#htitle > p {
+	position: absolute;
+	left: 37vw;
+	top: -19vh;
+	font-family: avenger;
+	font-size: 6.5vw;
+	color: white;
+	transition: 1s ease-in;
+	transition-delay: 1s;
+}
+.lane.l1 {
+	position: relative;
+	width: 100%;
+	height: 150vh;
+	top: -0.5vh;
+}
+.lane.l1 > img {
+	position: absolute;
+	width: 30vw;
+	left: 35vw;
+	top: 45vh;
+	z-index: 1;
+	transition: 0.7s ease-in-out;
+}
+.lane.l1 > .content {
+	position: absolute;
+	width: 0%;
+	height: 30vw;
+	left: 50vw;
+	top: 45vh;
+	border-radius: 5vh;
+	background: rgb(109, 0, 0);
+	transition: 0.7s ease-in-out;
+}
+.lane.l1 > .content > p {
+	margin-left: 20vw;
+	margin-right: 4vw;
+	color: white;
+	text-align: justify;
+}
+.lane.l1 > .content :first-child {
+	margin-bottom: 3vh;
+	font-size: 2.5vw;
+	transform: translateX(100vw);
+	transition: 0.2s;
+}
+.lane.l1 > .content :last-child {
+	font-size: 1.3vw;
+	transform: translateX(100vw);
+	transition: 0.5s;
+}
+.timeline {
+	background: white;
+	height: 340vh;
+	transition: 1s linear;
+}
+.timeline_title {
+	position: relative;
+	width: 100vw;
+	height: 45vh;
+	display: flex;
+}
+.timeline_title > img {
+	position: absolute;
+	width: 150vw;
+	top: -50vh;
+	left: -120vw;
+	transition: 0.5s ease-in;
+}
+.timeline_title > p {
+	position: absolute;
+	left: 100vw;
+	transition: 0.2s ease-in;
+	transition-delay: 0.4s;
+	color: rgb(255, 255, 255);
+	font-size: 8.6vw;
+	font-family: avenger;
+}
+.timeline_structure {
+	position: relative;
+	width: 100%;
+	height: 100vh;
+}
+#tbase {
+	position: absolute;
+	width: 3vw;
+	height: 3vw;
+	top: 2vw;
+	left: 29vw;
+	border-radius: 50%;
+	background: rgb(255, 255, 255);
+	opacity: 0;
+	transition: 1s;
+}
+#tline {
+	position: absolute;
+	width: 1vw;
+	height: 0;
+	top: 3vw;
+	left: 30vw;
+	background: rgb(255, 255, 255);
+	transition: 2s linear;
+}
+#branch > div {
+	position: absolute;
+	width: 0vw;
+	height: 1vw;
+	left: 31vw;
+	background: white;
+	transition: 0.5s linear;
+}
+#leaf > div {
+	position: absolute;
+	width: 45vw;
+	height: 30vh;
+	left: 100vw;
+	border-radius: 4vh;
+	border: solid white;
+	background-size: cover;
+	z-index: 2;
+}
+#leaf div:nth-child(1) {
+	background-image: url(img/image4.png);
+}
+#leaf div:nth-child(2) {
+	background-image: url(img/image5.png);
+}
+#leaf div:nth-child(3) {
+	background-image: url(img/image6.png);
+}
+#leaf div:nth-child(4) {
+	background-image: url(img/image7.png);
+}
+#leaf div:nth-child(5) {
+	background-image: url(img/image8.png);
+}
+#tcontent > p {
+	position: absolute;
+	width: 40vw;
+	height: 25vh;
+	left: 41vw;
+	border-radius: 4vh;
+	font-size: 1.5vw;
+	color: white;
+	z-index: 1;
+	opacity: 0;
+}
+.footer {
+	position: relative;
+	width: 100%;
+	height: 105vh;
+	background: white;
+}
+.footer > img {
+	position: absolute;
+	width: 30vw;
+	top: 5vw;
+	left: 4vw;
+	animation: footicon 7s linear infinite;
+}
+@keyframes footicon {
+	0% {
+		transform: rotateY(0deg);
+	}
+	15% {
+		transform: rotateY(180deg);
+	}
+	30% {
+		transform: rotateY(0deg);
+	}
+	100% {
+		transform: rotateY(0deg);
+	}
+}
+.footer :nth-child(2) {
+	position: absolute;
+	width: 50vw;
+	top: 12vh;
+	left: 40vw;
+	font-size: 1.9vw;
+}
+.footer :nth-child(3) {
+	position: absolute;
+	width: 80vw;
+	top: 73vh;
+	left: 10vw;
+	font-size: 2.7vw;
+	font-family: avenger;
+	text-align: center;
+	animation: footnote 7s linear infinite;
+}
+@keyframes footnote {
+	0% {
+		color: #440000;
+	}
+	50% {
+		color: #000000;
+	}
+	100% {
+		color: #440000;
+	}
+}

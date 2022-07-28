@@ -1,0 +1,256 @@
+::-webkit-scrollbar {
+	display: none;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+#main {
+	width: 100%;
+	height: 655vh;
+	position: relative;
+	overflow: hidden;
+	background: linear-gradient(black 80vh, #240000 220vh, black 370vh);
+}
+#navigation {
+	position: absolute;
+	width: 13vw;
+	right: 1vw;
+	z-index: 5;
+	transition: 0.2s ease-out;
+}
+#navigation > img {
+	width: 100%;
+	animation: navigation 10s ease-in-out infinite;
+}
+@keyframes navigation {
+	0% {
+		transform: rotateX(0deg) rotateY(0deg) scale(1) translateX(-2vw);
+	}
+	50% {
+		transform: rotateX(15deg) rotateY(15deg) scale(1.2) translateX(0);
+	}
+	100% {
+		transform: rotateX(0deg) rotateY(0deg) scale(1) translateX(-2vw);
+	}
+}
+#navigation > .ncontent {
+	position: relative;
+	width: 12vw;
+	height: 0vh;
+	right: 1vw;
+	top: -15vh;
+	background-image: url(img/image0b.png);
+	background-size: 100% 100%;
+	opacity: 0.9;
+	border-radius: 1.5vw;
+	overflow: hidden;
+	transition: 0.5s;
+}
+#navigation > .ncontent > p {
+	position: relative;
+	left: 2.2vw;
+	font-family: avenger;
+	letter-spacing: 0.13vw;
+	color: rgb(138, 0, 0);
+	font-size: 1.5vw;
+}
+#navigation > .ncontent > ul {
+	list-style: none;
+	padding-left: 3.5vw;
+}
+#navigation > .ncontent > ul > li {
+	position: relative;
+	top: -1vh;
+	margin: 0;
+	margin-top: 2vh;
+	margin-left: 0%;
+	width: 80%;
+}
+#navigation > .ncontent > ul li:before {
+	content: '\2604';
+	color: white;
+	font-weight: 900;
+	display: inline-block;
+	width: 20%;
+	margin-left: -18%;
+}
+#navigation > .ncontent > ul > li > a {
+	text-decoration: none;
+	font-family: avenger;
+	letter-spacing: 0.07vw;
+	color: white;
+	font-size: 2.3vh;
+}
+#header {
+	position: relative;
+	width: 100%;
+	height: 100vh;
+	margin-bottom: 50vh;
+}
+#header > video {
+	position: absolute;
+	object-fit: fill;
+	width: 100vw;
+	height: 100vh;
+	transform: rotateX(180deg);
+	transition: 0.3s;
+}
+#header > p {
+	position: absolute;
+	color: white;
+	z-index: 3;
+	font-size: 10vh;
+	letter-spacing: 1vw;
+	left: 15vw;
+	top: 34vh;
+	opacity: 0.8;
+	animation: headtitle 8s ease-in-out infinite;
+}
+@keyframes headtitle {
+	0% {
+		letter-spacing: 1vw;
+		left: 15vw;
+	}
+	50% {
+		letter-spacing: 1.3vw;
+		left: 12vw;
+	}
+	100% {
+		letter-spacing: 1vw;
+		left: 15vw;
+	}
+}
+.lane1 {
+	position: relative;
+	width: 100%;
+	height: 210vh;
+	margin-bottom: 20vh;
+}
+#ironman {
+	position: absolute;
+	height: 200vh;
+	right: -70vw;
+	transition: 0.5s ease-out;
+}
+.label1 > div {
+	position: absolute;
+	width: 28vw;
+	background: #460000;
+	border: solid #300000;
+	border-radius: 3vh;
+	transition: 0.3s ease-in;
+}
+.label1 :nth-child(1) {
+	top: 0vh;
+	left: -33vw;
+}
+.label1 :nth-child(2) {
+	top: 32vh;
+	left: -40vw;
+}
+.label1 :nth-child(3) {
+	top: 65vh;
+	left: -50vw;
+}
+.label1 :nth-child(4) {
+	top: 98vh;
+	left: -35vw;
+}
+.label1 :nth-child(5) {
+	top: 135vh;
+	left: -28vw;
+}
+.lane1 > .label1 > div > p {
+	margin: 1.2vw;
+	font-size: 1.2vw;
+	color: rgb(255, 255, 255);
+}
+.lane2 {
+	position: relative;
+	width: 100%;
+	height: 150vh;
+	margin-bottom: 20vh;
+	display: block;
+}
+.hud {
+	position: absolute;
+	width: 35vw;
+}
+.hud.a {
+	top: 60vh;
+	right: 0;
+}
+.hud.b {
+	top: 10vh;
+	left: 0;
+}
+.lane2 > .container {
+	position: absolute;
+	width: 70vw;
+	height: 45vh;
+	border-radius: 5vh;
+	background: rgba(0, 0, 0, 0.486);
+	display: flex;
+	transition: 0.5s ease-in;
+}
+.lane2 > .container.c1 {
+	left: -80vw;
+	top: 20vh;
+}
+.lane2 > .container.c2 {
+	right: -80vw;
+	top: 80vh;
+}
+.lane2 > .container > p {
+	margin-top: 4vh;
+	width: 70vw;
+	font-size: 1.3vw;
+	line-height: 3.5vh;
+	text-align: justify;
+	color: white;
+	opacity: 0;
+	transition: 0.5s;
+}
+.lane2 > .container.c1 > p {
+	margin-top: 7vh;
+	text-indent: 3vw;
+	margin-left: 2vw;
+}
+.lane2 > .container.c2 > p {
+	margin-top: 10vh;
+	text-indent: 3vw;
+	margin-right: 2vw;
+}
+.lane2 > .container > img {
+	padding: 0;
+	margin: 0;
+	margin: 6vh;
+	width: 23vw;
+	border-radius: 2vh;
+	transform: rotateY(90deg);
+	transition: 0.2s ease-in;
+}
+.lane3 {
+	position: relative;
+	width: 100%;
+	height: 150vh;
+	background: white;
+	display: block;
+}
+.lane3 > img {
+	position: absolute;
+	right: 0;
+	top: 20vh;
+	height: 70vh;
+}
+.lane3 > p {
+	position: relative;
+	top: 25vh;
+	margin-top: 0vh;
+	margin-left: 5vw;
+	width: 68vw;
+	font-size: 4vh;
+	text-indent: 5vw;
+}

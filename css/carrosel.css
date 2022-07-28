@@ -1,0 +1,81 @@
+
+
+
+
+.carousel-indicators [data-mdb-target]{
+    border-radius: 50%;
+    height: 11px;
+    width: 12px;
+    background-color: #1266f1;
+  }
+
+  /* contagem regressiva */
+h1.lancamento{
+  font-size: 30px;
+  text-align: center;
+}
+
+h3#paragrafo{
+  font-size: 25px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.filmelanca{
+  width: 100%;
+}
+
+.countdown {
+  display: flex;
+  transform: scale(2);
+}
+
+/* ============= */
+
+h1#headline {
+  text-align: center;
+  font-size: 20px;
+  font-weight: normal;
+  letter-spacing: .125rem;
+  text-transform: uppercase;
+}
+
+li.contagem {
+  text-align: center;
+  display: inline-block;
+  font-size: 10px;
+  list-style-type: none;
+  padding: 1em;
+  text-transform: uppercase;
+  background-color: #4f7bff;
+}
+
+li.contagem span {
+  
+  display: block;
+  font-size: 45px;
+}
+
+.emoji {
+  display: none;
+  padding: 1rem;
+}
+
+.emoji span {
+  font-size: 4rem;
+  padding: 0 .5rem;
+}
+
+@media all and (max-width: 768px) {
+  h1#headline {
+    font-size: calc(1.5rem * var(--smaller));
+  }
+  
+  li.contagem {
+    font-size: calc(1.125rem * var(--smaller));
+  }
+  
+  li.contagem span {
+    font-size: calc(3.375rem * var(--smaller));
+  }
+}

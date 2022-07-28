@@ -1,0 +1,154 @@
+
+  .bg-theme {
+    background-color: #7446ac !important;
+  }
+
+  .text-theme {
+    color: #7446ac !important;
+  }
+
+  .border-theme {
+    border: 1px solid #7446ac !important;
+  }
+
+  .btn-outline-theme {
+    border-color: #7446ac;
+    color: #7446ac;
+  }
+
+  .btn-outline-theme:hover,
+  .btn-outline-theme:focus {
+    border-color: hsl(265, 81.4%, 53.5%);
+    color: hsl(265, 81.4%, 53.5%);
+  }
+
+  .nav-pills .nav-link.active,
+  .nav-pills .show>.nav-link {
+    background-color: #7446ac;
+  }
+
+  hr.divider-vertical {
+    position: absolute;
+    background-color: transparent;
+    height: 100%;
+    right: 0;
+    top: 0;
+    width: 1px;
+    background-image: linear-gradient(180deg,
+        transparent,
+        rgba(0, 0, 0, 0.4),
+        transparent);
+  }
+
+  .accordion-item {
+    border-bottom: 1px solid #eee;
+  }
+
+  .accordion-collapse {
+    border: none !important;
+  }
+
+  .accordion-button {
+    border: none;
+  }
+
+  .accordion-button:focus {
+    box-shadow: none !important;
+  }
+
+  .accordion-button:not(.collapsed) {
+    background-color: #eee;
+    color: #000;
+    box-shadow: none !important;
+  }
+
+
+  #section-pricing .card-body {
+    font-size: .9em;
+  }
+
+  .small {
+    font-size: .9em !important;
+  }
+
+  .text-gradient.text-gradient-primary {
+    /*background-image: linear-gradient(310deg, hsla(215, 100%, 55%, 1), hsla(320, 100%, 35%, 1));*/
+    background-image: linear-gradient(310deg, #6F40A8, #3D20A9);
+  }
+
+  .text-gradient {
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: relative;
+    z-index: 1;
+  }
+
+
+  .page-header {
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-position: 50%;
+    min-height: 75vh;
+  }
+
+
+  .border-radius-section {
+    border-radius: 10rem;
+  }
+
+  .border-top-start-radius-0 {
+    border-top-left-radius: 0;
+  }
+
+  .border-top-end-radius-0 {
+    border-top-right-radius: 0;
+  }
+
+  .border-bottom-start-radius-0 {
+    border-bottom-left-radius: 0;
+  }
+
+  .z-index-0 {
+    z-index: 0;
+  }
+
+  .blur {
+    -webkit-backdrop-filter: saturate(500%) blur(21px);
+    backdrop-filter: saturate(500%) blur(21px);
+    background-color: rgba(255, 255, 255, 0.85);
+  }
+
+
+  #pricing,
+  #premium-access,
+  #testimonials {
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+  }
+  
+
+
+
+
+  .homemdeferro{
+    width: 380px;
+    height: 500px;
+  }
+
+  .america{
+    width: 380px;
+    height: 500px; 
+  }
+
+  .thor4{
+    width: 380px;
+    height: 500px;
+  }
+
+ 
+

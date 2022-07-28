@@ -1,0 +1,283 @@
+::-webkit-scrollbar {
+	display: none;
+}
+@font-face {
+	font-family: avenger;
+	src: url('font/AVENGEANCE HEROIC AVENGER.otf');
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+#main {
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	background: black;
+}
+#navigation {
+	position: absolute;
+	width: 13vw;
+	right: 1vw;
+	z-index: 3;
+	transition: 0.2s ease-out;
+}
+#navigation > img {
+	width: 100%;
+	animation: navigation 10s ease-in-out infinite;
+}
+@keyframes navigation {
+	0% {
+		transform: rotateX(0deg) rotateY(0deg) scale(1) translateX(-2vw);
+	}
+	50% {
+		transform: rotateX(15deg) rotateY(15deg) scale(1.2) translateX(0);
+	}
+	100% {
+		transform: rotateX(0deg) rotateY(0deg) scale(1) translateX(-2vw);
+	}
+}
+#navigation > .ncontent {
+	position: relative;
+	width: 12vw;
+	height: 0vh;
+	right: 1vw;
+	top: -15vh;
+	background-image: url(img/image0b.png);
+	background-size: 100% 100%;
+	opacity: 0.9;
+	border-radius: 1.5vw;
+	overflow: hidden;
+	transition: 0.5s;
+}
+#navigation > .ncontent > p {
+	position: relative;
+	left: 2.2vw;
+	font-family: avenger;
+	letter-spacing: 0.13vw;
+	color: rgb(138, 0, 0);
+	font-size: 1.5vw;
+}
+#navigation > .ncontent > ul {
+	list-style: none;
+	padding-left: 3.5vw;
+}
+#navigation > .ncontent > ul > li {
+	position: relative;
+	top: -1vh;
+	margin: 0;
+	margin-top: 2vh;
+	margin-left: 0%;
+	width: 80%;
+}
+#navigation > .ncontent > ul li:before {
+	content: '\2604';
+	color: white;
+	font-weight: 900;
+	display: inline-block;
+	width: 20%;
+	margin-left: -18%;
+}
+#navigation > .ncontent > ul > li > a {
+	text-decoration: none;
+	font-family: avenger;
+	letter-spacing: 0.07vw;
+	color: white;
+	font-size: 2.3vh;
+}
+#header {
+	position: relative;
+	width: 100%;
+	height: 100vh;
+	margin-bottom: 70vh;
+}
+#image1 {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+#header_title {
+	position: absolute;
+	top: 10vh;
+	left: 62vw;
+	height: 18vh;
+	width: 50vw;
+	background: #00000080;
+	border-radius: 2vw;
+	transform: translate(40vw);
+	transition-delay: 1s;
+	transition: 1.5s;
+}
+#header_title > p {
+	position: relative;
+	font-size: 10vh;
+	margin-top: 3vh;
+	margin-left: 2vw;
+	color: white;
+}
+.lane.l1 {
+	position: relative;
+	width: 100%;
+	height: 70vh;
+	margin-bottom: 70vh;
+}
+.container1 {
+	position: absolute;
+	width: 100%;
+	height: 0;
+	top: 50%;
+	background: white;
+	transition: 0.5s ease-in;
+}
+.lane.l1 > .container1 > img {
+	position: absolute;
+	width: 60%;
+	height: 100%;
+	transform: translate(-100vw);
+	transition: 0.5s;
+	transition-delay: 0.5s;
+}
+.lane.l1 > .container1 > .content {
+	position: absolute;
+	width: 41vw;
+	right: 3vw;
+	top: 3vh;
+	color: black;
+	text-align: right;
+	opacity: 0;
+	transition: 0.7s;
+	transition-delay: 1s;
+}
+.lane.l1 > .container1 > .content :first-child {
+	position: relative;
+	font-size: 3vw;
+}
+.lane.l1 > .container1 > .content :last-child {
+	position: relative;
+	font-size: 1.3vw;
+}
+.lane.l2 {
+	position: relative;
+	width: 100%;
+	height: 70vh;
+	margin-bottom: 40vh;
+}
+.lane.l2 > img {
+	position: absolute;
+	width: 60%;
+	height: 100%;
+	right: 2vw;
+}
+.lane.l2 > .content {
+	position: absolute;
+	width: 45vw;
+	left: 4vw;
+	top: 5vh;
+	color: white;
+	text-align: left;
+	line-height: 4vh;
+}
+.lane.l2 > .content :first-child {
+	transform: translate(-50vw);
+	transition: 0.7s;
+}
+.lane.l2 > .content :last-child {
+	opacity: 0;
+	transition: 1s;
+	transition-delay: 0.5s;
+}
+.lane.l2 > .content :first-child {
+	position: relative;
+	font-size: 4vw;
+}
+.lane.l2 > .content :last-child {
+	position: relative;
+	font-size: 1.3vw;
+}
+.footer {
+	width: 100%;
+	height: 220vh;
+	margin: auto;
+	position: relative;
+	display: flex;
+	background: black;
+	transition: 0.5s;
+}
+.hcontent {
+	width: 65%;
+	height: 70vh;
+	margin-top: 30vh;
+	position: relative;
+	display: flex;
+}
+.hparagraph {
+	position: absolute;
+	margin-top: 10%;
+	margin-left: 9%;
+	width: 85%;
+	height: 90%;
+	transition: 1s;
+	font-size: 2vw;
+	opacity: 0;
+	color: black;
+}
+.hcontrol {
+	opacity: 0;
+	transition: 1s;
+}
+.hcontrol > div {
+	position: absolute;
+	top: 60vh;
+	width: 2.5vh;
+	height: 1.7vh;
+	border-radius: 2vh;
+	border: solid rgb(0, 0, 0) 0.2vh;
+	background: rgb(255, 255, 255);
+}
+.hshowcase {
+	width: 45%;
+	height: 80vh;
+	margin-top: 30vh;
+	position: relative;
+}
+.hcontainer {
+	width: 200%;
+	height: 100%;
+	position: absolute;
+}
+.hcontainer div {
+	position: absolute;
+	width: 50%;
+	height: 90%;
+	margin-top: 2.5%;
+	margin-left: 2.5%;
+	transform: translate(120%);
+	transition: 1s;
+}
+.hcontainer div img {
+	width: 100%;
+	height: 100%;
+	border-radius: 5%;
+}
+.end {
+	position: absolute;
+	width: 1%;
+	height: 30vh;
+	left: 48.5vw;
+	border-radius: 5vh;
+	bottom: 35vh;
+	background: rgb(26, 26, 26);
+	transition: 0.7s;
+}
+.end > p {
+	position: absolute;
+	margin: 0;
+	left: 13vw;
+	top: 10vh;
+	width: 85vw;
+	font-size: 2.1vw;
+	text-align: center;
+	color: white;
+	opacity: 0;
+	transition: 1s;
+}
