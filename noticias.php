@@ -138,7 +138,25 @@
                   Some quick example text to build on the card title and make up the bulk of the
                   card's content.
                 </p>
-                <a href="#!" class="btn btn-primary">Read</a>
+                
+                  <button
+                    class="btn btn-primary"
+                    type="button"
+                    data-mdb-toggle="collapse"
+                    data-mdb-target="#collapseExample"
+                    aria-expanded="false"
+                    aria-controls="collapseExample"
+                  >
+                    Button with data-mdb-target
+                  </button>
+
+                  <!-- Collapsed content -->
+                  <div class="collapse mt-3" id="collapseExample">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
+                    sapiente ea proident.
+                  </div>
+
               </div>
             </div>
           </div>
@@ -157,7 +175,25 @@
                   Some quick example text to build on the card title and make up the bulk of the
                   card's content.
                 </p>
-                <a href="#!" class="btn btn-primary">Read</a>
+            
+                <button
+                    class="btn btn-primary"
+                    type="button"
+                    data-mdb-toggle="collapse"
+                    data-mdb-target="#collapseExample"
+                    aria-expanded="false"
+                    aria-controls="collapseExample"
+                  >
+                    Button with data-mdb-target
+                  </button>
+
+                  <!-- Collapsed content -->
+                  <div class="collapse mt-3" id="collapseExample">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
+                    sapiente ea proident.
+                  </div>
+
               </div>
             </div>
           </div>
@@ -178,7 +214,25 @@
                   Some quick example text to build on the card title and make up the bulk of the
                   card's content.
                 </p>
-                <a href="#!" class="btn btn-primary">Read</a>
+                
+                <button
+                    class="btn btn-primary"
+                    type="button"
+                    data-mdb-toggle="collapse"
+                    data-mdb-target="#collapseExample"
+                    aria-expanded="false"
+                    aria-controls="collapseExample"
+                  >
+                    Button with data-mdb-target
+                  </button>
+
+                  <!-- Collapsed content -->
+                  <div class="collapse mt-3" id="collapseExample">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
+                    sapiente ea proident.
+                  </div>
+
               </div>
             </div>
           </div>
@@ -197,7 +251,25 @@
                   Some quick example text to build on the card title and make up the bulk of the
                   card's content.
                 </p>
-                <a href="#!" class="btn btn-primary">Read</a>
+                
+                <button
+                    class="btn btn-primary"
+                    type="button"
+                    data-mdb-toggle="collapse"
+                    data-mdb-target="#collapseExample"
+                    aria-expanded="false"
+                    aria-controls="collapseExample"
+                  >
+                    Button with data-mdb-target
+                  </button>
+
+                  <!-- Collapsed content -->
+                  <div class="collapse mt-3" id="collapseExample">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
+                    sapiente ea proident.
+                  </div>
+
               </div>
             </div>
           </div>

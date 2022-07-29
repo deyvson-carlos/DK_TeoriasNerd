@@ -341,7 +341,7 @@
           </a>
         </ul>
 <br>
-        <a href="#"><button type="button" class="btn btn-primary btncentral">Outras Notícias</button></a>
+        <a href="noticias.php"><button type="button" class="btn btn-primary btncentral">Outras Notícias</button></a>
 
       </div>
       <div class="feed__hype">
@@ -671,9 +671,9 @@
       <div class="card-body">
         <h5 class="card-title">Marvels</h5>
         <p class="card-text">
-          Conquiste seus objetivos
+          Jogo da Memória
         </p>
-        <a href="#!" class="btn btn-primary">Jogar</a>
+        <a href="./jogos/memoria/memoria.html" class="btn btn-primary">Jogar</a>
       </div>
     </div>
     <!-- Card -->
