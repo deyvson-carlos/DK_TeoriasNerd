@@ -421,7 +421,7 @@
 <div class="row row-cols-1 row-cols-md-2 g-4">
   <div class="col">
     <div class="card">
-      <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/041.webp" class="card-img-top" alt="Hollywood Sign on The Hill"/>
+      <img src="../img/sony/poltrona-homem-aranha-de-volta-ao-lar-ccxp.jpg" class="card-img-top imgaranha" alt="Hollywood Sign on The Hill"/>
       <div class="card-body">
         <h5 class="card-title">MCU</h5>
         
@@ -455,9 +455,9 @@
 
   <div class="col">
     <div class="card">
-      <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/042.webp" class="card-img-top" alt="Palm Springs Road"/>
+      <img src="../img/sony/sonyverso.jpg" class="card-img-top" alt="Palm Springs Road"/>
       <div class="card-body">
-        <h5 class="card-title">SonyVerso</h5>
+        <h5 class="card-title">Aranha-Verso</h5>
         
         <button
                     class="btn btn-primary"
@@ -480,7 +480,7 @@
                     <p><li> Venom 3 (2024)</li></p>
                     <p><li> O Sexteto Sinistro (2024)</li></p>
                     <p><li> Spider- Woman (2024)</li></p>
-                    <p><li> Gata Negra (2025)</li></p><br>
+                    <p><li> Gata Negra (2025)</li></p>
                   </div>
 
       </div>
@@ -491,7 +491,7 @@
 
   <div class="col">
     <div class="card">
-      <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/043.webp" class="card-img-top" alt="Los Angeles Skyscrapers"/>
+      <img src="../img/sony/spider-man-2002-banner_k5qn.jpg" class="card-img-top" alt="Los Angeles Skyscrapers"/>
       <div class="card-body">
         <h5 class="card-title">TERRA - 4</h5>
         
@@ -510,7 +510,8 @@
                   <div class="collapse mt-3" id="collapseExample2">
                     <p><li> Homem-Aranha (2002)</li></p>
                     <p><li> Homem-Aranha (2004)</li></p>
-                    <p><li> Homem-Aranha (2007)</li></p><br>
+                    <p><li> Homem-Aranha (2007)</li></p>
+                    <p><li> Homem-Aranha: Sem Caminho Para Casa (2021) (MCU)</li></p>
                   </div>
 
       </div>
@@ -520,7 +521,7 @@
 
   <div class="col">
     <div class="card">
-      <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/044.webp" class="card-img-top" alt="Skyscrapers"/>
+      <img src="../img/sony/andrew-garfield-in-the-amazing-spider-man-2_widelg.jpg" class="card-img-top" alt="Skyscrapers"/>
       <div class="card-body">
         <h5 class="card-title">TERRA - 148611</h5>
         
@@ -538,7 +539,8 @@
                   <!-- Collapsed content -->
                   <div class="collapse mt-3" id="collapseExample3">
                     <p><li> O Espetacular Homem-Aranha (2012)</li></p>
-                    <p><li> O Espetacular Homem-Aranha 2 (2014)</li></p><br>
+                    <p><li> O Espetacular Homem-Aranha 2 (2014)</li></p>
+                    <p><li> Homem-Aranha: Sem Caminho Para Casa (2021) (MCU)</li></p>
                   </div>
 
       </div>
