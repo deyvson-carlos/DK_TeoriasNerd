@@ -1,0 +1,13 @@
+.color{
+    color: #1266f1;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.color:hover{
+    color: #0e51bc;
+}
+
+.max{
+   height: 380px;
+}

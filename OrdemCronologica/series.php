@@ -205,8 +205,8 @@
 
   <div class="col">
     <div class="card h-100 ripple" style="background-color: blueviolet">
-    <a class="page-link" href="#">
-      <img src="../img/series/OsFugitivos/capa.jpg" class="card-img-top"
+    <a class="page-link" href="osfugitivos.php">
+      <img src="../img/series/OsFugitivos/principal.jpg" class="card-img-top"
         alt="Palm Springs Road"/>
         </a>
       <div class="card-body">
@@ -218,8 +218,8 @@
 
   <div class="col">
     <div class="card h-100 ripple" style="background-color: black">
-    <a class="page-link" href="#">
-      <img src="../img/series/MantoEAdaga/capa.jpg" class="card-img-top"
+    <a class="page-link" href="mantoeadaga.php">
+      <img src="../img/series/MantoEAdaga/002.jpg" class="card-img-top"
         alt="Los Angeles Skyscrapers" />
         </a>
       <div class="card-body">
@@ -233,13 +233,13 @@
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100 ripple" style="background-color: rgb(4, 247, 4);">
-    <a class="page-link" href="#">
+    <a class="page-link" href="loki.php">
       <img src="../img/series/Loki/capa.jpg" class="card-img-top" alt="Hollywood Sign on The Hill" />
     </a>
       <div class="card-body">
-        <h5 class="card-title">Loki.</h5>
+        <h5 class="card-title">Loki</h5>
         <p class="card-text">
-          <b>1</b> Temporada
+          <b>2</b> Temporada
         </p>
       </div>
     </div>
