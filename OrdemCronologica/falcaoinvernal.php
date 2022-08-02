@@ -47,7 +47,7 @@
       src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.2.0/mdb.min.js"
     ></script>
 
-    <title>Teorias Nerd | Séries | She Hulk</title>
+    <title>Teorias Nerd | Séries | Falcão E o Soldado Invernal</title>
 
 </head>
 
@@ -109,7 +109,7 @@
   <div
     class="p-5 text-center bg-image"
     style="
-      background-image: url('../img/series/SheHulk/principal.jpg');
+      background-image: url('../img/series/FalcaoEoSoldadoInvernal/01.jpg');
       height: 400px;
       width: 100%;"
   >
@@ -117,7 +117,7 @@
       <div class="d-flex justify-content-center align-items-center h-100">
         <div class="text-white">
           <h1 class="mb-3">Teorias Nerd - Séries</h1>
-          <h4 class="mb-3">She Hulk</h4>
+          <h4 class="mb-3">Falcão E o Soldado Invernal</h4>
         </div>
       </div>
     </div>
@@ -140,7 +140,7 @@
  </div>
  <hr class="my-5" />
 
- <!-- ========== She Hulk ========= -->
+ <!-- ==========Falcao E o Soldado Invernal ========= -->
 
  <main class="mt-5">
     <div class="container">
@@ -149,7 +149,7 @@
         <div class="row">
           <div class="col-md-6 gx-5 mb-4">
             <div class="bg-image hover-overlay ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light">
-              <img src="../img/series/SheHulk/banner.jpg" class="img-fluid" />
+              <img src="../img/series/FalcaoEoSoldadoInvernal/banner.jpg" class="img-fluid" />
               <a href="#!">
                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
               </a>
@@ -157,13 +157,13 @@
           </div>
 
           <div class="col-md-6 gx-5 mb-4">
-            <h4><strong>Mulher-Hulk</strong></h4>
+            <h4><strong>Falcão E o Soldado Invernal</strong></h4>
             <p class="text-muted">
-            She-Hulk: Attorney at Law é uma série de televisão na web americana, baseada na super-heroína da Marvel Comics de mesmo nome . É a vigésima série de televisão do Universo Cinematográfico Marvel e a décima quinta parte da Fase Quatro . A série é produzida pela Marvel Studios e será lançada no Disney+ . 
+            O Falcão e o Soldado Invernal é uma minissérie americana de televisão na web, baseada nos super-heróis da Marvel Comics de mesmo nome . A série é uma continuação de Vingadores: Ultimato . É a décima quarta série de televisão do Universo Cinematográfico Marvel e a segunda parte da Fase Quatro . A série é produzida pela Marvel Studios e foi lançada no Disney+ .
             </p>
-            <p><strong>A primeira temporada consistirá em nove episódios e estreia em 17 de agosto de 2022.</strong></p>
+            <p><strong>A primeira e única temporada estreou em 19 de março de 2021 e foi concluída em 23 de abril de 2021. Um quarto filme do Capitão América , intitulado Capitão América: Nova Ordem Mundial , servirá como uma continuação da série e está programado para ser lançado em 3 de maio de 2024.</strong></p>
             <p class="text-muted">
-            She-Hulk: Attorney at Law segue Jennifer Walters enquanto ela navega na vida complicada de uma advogada solteira de 30 e poucos anos que também é um superpoderoso Hulk verde de 1,80 m. 
+            Após os eventos de Vingadores: Ultimato , Sam Wilson/Falcão e Bucky Barnes/Soldado Invernal se unem em uma aventura global que testa suas habilidades – e sua paciência – em Falcão e o Soldado Invernal , da Marvel Studios . 
             </p>
           </div>
         </div>
@@ -175,17 +175,17 @@
 <div class="row row-cols-1 row-cols-md-3 g-4" >
   <div class="col">
     <div class="card h-100 hover-zoom">
-      <img src="../img/series/SheHulk/01.jpg" class="card-img-top" alt="Hollywood Sign on The Hill"/>
+      <img src="../img/series/FalcaoEoSoldadoInvernal/01.jpg" class="card-img-top" alt="Hollywood Sign on The Hill"/>
       <div class="card-body">
         <ul class="mb-0 ms-2">
                     <li class="my-3">
                     Primeira temporada
                     </li>
                     <li class="my-3">
-                    Episódios: 09
+                    Episódios: 06
                     </li>
                     <li class="my-3">
-                    Execução: 17 de agosto de 2022 - 12 de outubro de 2022
+                    Execução: 19 de março de 2021 - 23 de abril de 2021
                     </li>
                   </ul>
       </div>

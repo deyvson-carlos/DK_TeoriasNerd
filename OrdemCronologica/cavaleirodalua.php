@@ -47,7 +47,7 @@
       src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.2.0/mdb.min.js"
     ></script>
 
-    <title>Teorias Nerd | Séries | She Hulk</title>
+    <title>Teorias Nerd | Séries | Cavaleiro da Lua</title>
 
 </head>
 
@@ -109,7 +109,7 @@
   <div
     class="p-5 text-center bg-image"
     style="
-      background-image: url('../img/series/SheHulk/principal.jpg');
+      background-image: url('../img/series/CavaleiroDaLua/principal.jpg');
       height: 400px;
       width: 100%;"
   >
@@ -117,7 +117,7 @@
       <div class="d-flex justify-content-center align-items-center h-100">
         <div class="text-white">
           <h1 class="mb-3">Teorias Nerd - Séries</h1>
-          <h4 class="mb-3">She Hulk</h4>
+          <h4 class="mb-3">Cavaleiro da Lua</h4>
         </div>
       </div>
     </div>
@@ -140,7 +140,7 @@
  </div>
  <hr class="my-5" />
 
- <!-- ========== She Hulk ========= -->
+ <!-- ========== WandaVision ========= -->
 
  <main class="mt-5">
     <div class="container">
@@ -149,7 +149,7 @@
         <div class="row">
           <div class="col-md-6 gx-5 mb-4">
             <div class="bg-image hover-overlay ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light">
-              <img src="../img/series/SheHulk/banner.jpg" class="img-fluid" />
+              <img src="../img/series/CavaleiroDaLua/banner.jpg" class="img-fluid" />
               <a href="#!">
                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
               </a>
@@ -157,13 +157,13 @@
           </div>
 
           <div class="col-md-6 gx-5 mb-4">
-            <h4><strong>Mulher-Hulk</strong></h4>
+            <h4><strong>Cavaleiro da Lua</strong></h4>
             <p class="text-muted">
-            She-Hulk: Attorney at Law é uma série de televisão na web americana, baseada na super-heroína da Marvel Comics de mesmo nome . É a vigésima série de televisão do Universo Cinematográfico Marvel e a décima quinta parte da Fase Quatro . A série é produzida pela Marvel Studios e será lançada no Disney+ . 
+            Moon Knight é uma série de televisão na web americana, baseada no super-herói da Marvel Comics de mesmo nome . É a décima oitava série de televisão do Universo Cinematográfico Marvel e a nona edição da Fase Quatro . A série é produzida pela Marvel Studios e foi lançada no Disney+ .
             </p>
-            <p><strong>A primeira temporada consistirá em nove episódios e estreia em 17 de agosto de 2022.</strong></p>
+            <p><strong>A primeira e única temporada estreou em 30 de março de 2022 e foi concluída em 4 de maio de 2022.</strong></p>
             <p class="text-muted">
-            She-Hulk: Attorney at Law segue Jennifer Walters enquanto ela navega na vida complicada de uma advogada solteira de 30 e poucos anos que também é um superpoderoso Hulk verde de 1,80 m. 
+            A série segue Steven Grant , um funcionário de uma loja de presentes, que se torna atormentado por apagões e memórias de outra vida. Steven descobre que tem transtorno dissociativo de identidade e compartilha um corpo com o mercenário Marc Spector . À medida que os inimigos de Steven/Marc convergem para eles, eles devem navegar em suas identidades complexas enquanto mergulham em um mistério mortal entre os poderosos deuses do Egito .  
             </p>
           </div>
         </div>
@@ -175,17 +175,17 @@
 <div class="row row-cols-1 row-cols-md-3 g-4" >
   <div class="col">
     <div class="card h-100 hover-zoom">
-      <img src="../img/series/SheHulk/01.jpg" class="card-img-top" alt="Hollywood Sign on The Hill"/>
+      <img src="../img/series/CavaleiroDaLua/01.jpg" class="card-img-top" alt="Hollywood Sign on The Hill"/>
       <div class="card-body">
         <ul class="mb-0 ms-2">
                     <li class="my-3">
                     Primeira temporada
                     </li>
                     <li class="my-3">
-                    Episódios: 09
+                    Episódios: 06
                     </li>
                     <li class="my-3">
-                    Execução: 17 de agosto de 2022 - 12 de outubro de 2022
+                    Execução: 30 de março de 2022 - 4 de maio de 2022
                     </li>
                   </ul>
       </div>

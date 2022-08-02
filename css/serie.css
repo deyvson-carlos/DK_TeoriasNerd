@@ -1,0 +1,84 @@
+
+.Agents{
+    background-color: rgb(63, 63, 110);
+}
+.Agents:hover{
+    background-color: rgb(47, 47, 82)
+}
+
+.Carter{
+    background-color: rgb(124, 124, 163);
+}
+.Carter:hover{
+    background-color: rgb(92, 92, 119);
+}
+
+.Hulk{
+    background-color: green;
+}
+.Hulk:hover{
+    background-color: rgb(2, 102, 2);
+}
+
+.Marvel{
+    background-color: rgb(91, 0, 0);
+}
+.Marvel:hover{
+    background-color: rgb(58, 0, 0);
+}
+
+.Fugitivos{
+    background-color: blueviolet;
+}
+.Fugitivos:hover{
+    background-color: rgb(101, 34, 164);
+}
+
+.Manto{
+    background-color: black;
+}
+.Manto:hover{
+    background-color: rgb(30, 29, 29);
+}
+
+.Loki{
+    background-color: rgb(4, 247, 4);
+}
+.Loki:hover{
+    background-color: rgb(3, 200, 3);
+}
+
+.Wanda{
+    background-color:rgb(45, 0, 0);
+}
+.Wanda:hover{
+    background-color: rgb(30, 0, 0);
+}
+
+.Cavaleiro{
+    background-color: #fff;
+}
+.Cavaleiro:hover{
+    background-color: rgb(188, 188, 188);
+}
+
+.Jéssica{
+    background-color:purple;
+}
+.Jéssica:hover{
+    background-color: rgb(100, 6, 100);
+}
+
+.Luke{
+    background-color: yellow;
+}
+.Luke:hover{
+    background-color: rgb(180, 180, 3);
+}
+
+.Demolidor{
+    background-color:red;
+}
+.Demolidor:hover{
+    background-color: rgb(220, 1, 1);
+}

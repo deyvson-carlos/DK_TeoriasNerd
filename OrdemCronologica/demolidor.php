@@ -47,7 +47,7 @@
       src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.2.0/mdb.min.js"
     ></script>
 
-    <title>Teorias Nerd | Séries | She Hulk</title>
+    <title>Teorias Nerd/Séries/Demolidor</title>
 
 </head>
 
@@ -109,7 +109,7 @@
   <div
     class="p-5 text-center bg-image"
     style="
-      background-image: url('../img/series/SheHulk/principal.jpg');
+      background-image: url('../img/series/demolidor/57-572836_daredevil-background.jpg');
       height: 400px;
       width: 100%;"
   >
@@ -117,7 +117,7 @@
       <div class="d-flex justify-content-center align-items-center h-100">
         <div class="text-white">
           <h1 class="mb-3">Teorias Nerd - Séries</h1>
-          <h4 class="mb-3">She Hulk</h4>
+          <h4 class="mb-3">Demolidor</h4>
         </div>
       </div>
     </div>
@@ -140,7 +140,7 @@
  </div>
  <hr class="my-5" />
 
- <!-- ========== She Hulk ========= -->
+ <!-- ========== Demolidor ========= -->
 
  <main class="mt-5">
     <div class="container">
@@ -149,7 +149,7 @@
         <div class="row">
           <div class="col-md-6 gx-5 mb-4">
             <div class="bg-image hover-overlay ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light">
-              <img src="../img/series/SheHulk/banner.jpg" class="img-fluid" />
+              <img src="../img/series/demolidor/banner.jpg" class="img-fluid" />
               <a href="#!">
                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
               </a>
@@ -157,13 +157,13 @@
           </div>
 
           <div class="col-md-6 gx-5 mb-4">
-            <h4><strong>Mulher-Hulk</strong></h4>
+            <h4><strong>Demolidor</strong></h4>
             <p class="text-muted">
-            She-Hulk: Attorney at Law é uma série de televisão na web americana, baseada na super-heroína da Marvel Comics de mesmo nome . É a vigésima série de televisão do Universo Cinematográfico Marvel e a décima quinta parte da Fase Quatro . A série é produzida pela Marvel Studios e será lançada no Disney+ . 
+            Marvel's Daredevil , ou simplesmente Daredevil , é uma série de televisão na web americana baseada no super-herói da Marvel Comics de mesmo nome . É a terceira série de televisão do Universo Cinematográfico Marvel . A série foi produzida pela Marvel Television e lançada originalmente na Netflix .
             </p>
-            <p><strong>A primeira temporada consistirá em nove episódios e estreia em 17 de agosto de 2022.</strong></p>
+            <p><strong>A primeira temporada foi lançada em 10 de abril de 2015. A segunda temporada foi lançada em 18 de março de 2016. A terceira e última temporada foi lançada em 19 de outubro de 2018.</strong></p>
             <p class="text-muted">
-            She-Hulk: Attorney at Law segue Jennifer Walters enquanto ela navega na vida complicada de uma advogada solteira de 30 e poucos anos que também é um superpoderoso Hulk verde de 1,80 m. 
+            Uma sequência independente, Daredevil: Born Again , está programada para ser lançada em 2024.
             </p>
           </div>
         </div>
@@ -175,22 +175,82 @@
 <div class="row row-cols-1 row-cols-md-3 g-4" >
   <div class="col">
     <div class="card h-100 hover-zoom">
-      <img src="../img/series/SheHulk/01.jpg" class="card-img-top" alt="Hollywood Sign on The Hill"/>
+      <img src="../img/series/demolidor/01.jpg" class="card-img-top" alt="Hollywood Sign on The Hill"/>
       <div class="card-body">
         <ul class="mb-0 ms-2">
                     <li class="my-3">
                     Primeira temporada
                     </li>
                     <li class="my-3">
-                    Episódios: 09
+                    Episódios: 13
                     </li>
                     <li class="my-3">
-                    Execução: 17 de agosto de 2022 - 12 de outubro de 2022
+                    Execução: 10 de abril de 2015
                     </li>
                   </ul>
       </div>
     </div>
   </div>
+
+  <div class="col">
+    <div class="card h-100 hover-zoom">
+      <img src="../img/series/demolidor/02.jpg" class="card-img-top" alt="Palm Springs Road"/>
+      <div class="card-body">
+      <ul class="mb-0 ms-2">
+                    <li class="my-3">
+                    Segunda temporada
+                    </li>
+                    <li class="my-3">
+                    Episódios: 13
+                    </li>
+                    <li class="my-3">
+                    Execução: 18 de março de 2016
+                    </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100 hover-zoom">
+      <img src="../img/series/demolidor/03.jpg" class="card-img-top" alt="Los Angeles Skyscrapers"/>
+      <div class="card-body">
+      <ul class="mb-0 ms-2">
+                    <li class="my-3">
+                    Terceira temporada
+                    </li>
+                    <li class="my-3">
+                    Episódios: 13
+                    </li>
+                    <li class="my-3">
+                    Execução: 19 de outubro de 2018
+                    </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+</div><br>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card h-100 hover-zoom">
+      <img src="../img/series/demolidor/04.jpg" class="card-img-top" alt="Hollywood Sign on The Hill"/>
+      <div class="card-body">
+      <ul class="mb-0 ms-2">
+                    <li class="my-3">
+                    Quarta temporada
+                    </li>
+                    <li class="my-3">
+                    Episódios: 18
+                    </li>
+                    <li class="my-3">
+                    Execução: 2024
+                    </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+  
 </div>
 
 <!-- ===================================== -->

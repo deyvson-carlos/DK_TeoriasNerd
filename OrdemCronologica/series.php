@@ -8,10 +8,10 @@
     <link rel="sortcut icon" href="../img/logo/eu001.png" type="image/x-icon"/>
 
     <!-- CSS -->
-
+    
     <link rel="stylesheet" href="../css/ordemcron.css">
-    <link rel="stylesheet" href="../css/series.css">
     <link rel="stylesheet" href="../css/global.css">
+    <link rel="stylesheet" href="../css/serie.css">
 
     <link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon" />
     <!-- Font Awesome -->
@@ -109,7 +109,7 @@
   <div
     class="p-5 text-center bg-image"
     style="
-      background-image: url('../img/series/Civil-War-1-min.jpg');
+      background-image: url('../img/series/FN-_xWCX0AAHfi0.jpg');
       height: 400px;
       width: 100%;
     "
@@ -147,7 +147,7 @@
 
  <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
-    <div class="card h-100 ripple" style="background-color: rgb(63, 63, 110);">
+    <div class="card h-100 ripple Agents">
     <a class="page-link" href="../OrdemCronologica/shield.php">
       <img src="../img/series/AgentsOfShields/capabanner.jpg" class="card-img-top" alt="Hollywood Sign on The Hill" />
     </a>
@@ -161,7 +161,7 @@
   </div>
 
   <div class="col">
-    <div class="card h-100 ripple" style="background-color: rgb(124, 124, 163);">
+    <div class="card h-100 ripple Carter">
     <a class="page-link" href="../OrdemCronologica/agentecarter.php">
       <img src="../img/series/AgenteCarter/capa.jpg" class="card-img-top"
         alt="Palm Springs Road" />
@@ -174,7 +174,7 @@
   </div>
 
   <div class="col">
-    <div class="card h-100 ripple" style="background-color: green;">
+    <div class="card h-100 ripple Hulk">
     <a class="page-link" href="../OrdemCronologica/shehulk.php">
       <img src="../img/series/SheHulk/capa.jpg" class="card-img-top"
         alt="Los Angeles Skyscrapers" />
@@ -189,7 +189,7 @@
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
-    <div class="card h-100 ripple" style="background-color: rgb(91, 0, 0);">
+    <div class="card h-100 ripple Marvel">
     <a class="page-link" href="msmarvel.php">
       <img src="../img/series/MsMarvel/capa.jpg" class="card-img-top"
         alt="Hollywood Sign on The Hill" />
@@ -204,7 +204,7 @@
   </div>
 
   <div class="col">
-    <div class="card h-100 ripple" style="background-color: blueviolet">
+    <div class="card h-100 ripple Fugitivos">
     <a class="page-link" href="osfugitivos.php">
       <img src="../img/series/OsFugitivos/principal.jpg" class="card-img-top"
         alt="Palm Springs Road"/>
@@ -217,7 +217,7 @@
   </div>
 
   <div class="col">
-    <div class="card h-100 ripple" style="background-color: black">
+    <div class="card h-100 ripple Manto">
     <a class="page-link" href="mantoeadaga.php">
       <img src="../img/series/MantoEAdaga/002.jpg" class="card-img-top"
         alt="Los Angeles Skyscrapers" />
@@ -232,35 +232,35 @@
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
-    <div class="card h-100 ripple" style="background-color: rgb(4, 247, 4);">
+    <div class="card h-100 ripple Loki">
     <a class="page-link" href="loki.php">
       <img src="../img/series/Loki/capa.jpg" class="card-img-top" alt="Hollywood Sign on The Hill" />
     </a>
       <div class="card-body">
         <h5 class="card-title">Loki</h5>
         <p class="card-text">
-          <b>2</b> Temporada
+          <b>2</b> Temporadas
         </p>
       </div>
     </div>
   </div>
 
   <div class="col">
-    <div class="card h-100 ripple" style="background-color: rgb(45, 0, 0);">
-    <a class="page-link" href="#">
+    <div class="card h-100 ripple Wanda">
+    <a class="page-link" href="vandavision.php">
       <img src="../img/series/VandaVision/capa.jpg" class="card-img-top"
         alt="Palm Springs Road" />
         </a>
       <div class="card-body">
-        <h5 class="card-title">VandaVision</h5>
+        <h5 class="card-title">WandaVision</h5>
         <p class="card-text"><b>1</b> Temporada</p>
       </div>
     </div>
   </div>
 
   <div class="col">
-    <div class="card h-100 ripple" style="background-color: #fff;">
-    <a class="page-link" href="#">
+    <div class="card h-100 ripple Cavaleiro">
+    <a class="page-link" href="cavaleirodalua.php">
       <img src="../img/series/CavaleiroDaLua/capa.jpg" class="card-img-top"
         alt="Los Angeles Skyscrapers" />
         </a>
@@ -274,8 +274,8 @@
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
-    <div class="card h-100 ripple" style="background-color: purple;">
-    <a class="page-link" href="#">
+    <div class="card h-100 ripple Jéssica">
+    <a class="page-link" href="jessicajones.php">
       <img src="../img/series/JessicaJones/capa.jpg" class="card-img-top" alt="Hollywood Sign on The Hill" />
     </a>
       <div class="card-body">
@@ -288,8 +288,8 @@
   </div>
 
   <div class="col">
-    <div class="card h-100 ripple" style="background-color: yellow;">
-    <a class="page-link" href="#">
+    <div class="card h-100 ripple Luke">
+    <a class="page-link" href="lukecage.php">
       <img src="../img/series/LukeCage/capa.jpg" class="card-img-top"
         alt="Palm Springs Road" />
         </a>
@@ -301,14 +301,14 @@
   </div>
 
   <div class="col">
-    <div class="card h-100 ripple" style="background-color: red;">
-    <a class="page-link" href="#">
+    <div class="card h-100 ripple Demolidor">
+    <a class="page-link" href="demolidor.php">
       <img src="../img/series/Demolidor/capa.jpg" class="card-img-top"
         alt="Los Angeles Skyscrapers" />
         </a>
       <div class="card-body">
         <h5 class="card-title">Demolidor</h5>
-        <p class="card-text"><b>3</b> Temporadas</p>
+        <p class="card-text"><b>4</b> Temporadas</p>
       </div>
     </div>
   </div>
@@ -316,8 +316,8 @@
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
-    <div class="card h-100 ripple" style="background-color: black;">
-    <a class="page-link" href="#">
+    <div class="card h-100 ripple Manto">
+    <a class="page-link" href="justiceiro.php">
       <img src="../img/series/Justiceiro/capa.jpg" class="card-img-top" alt="Hollywood Sign on The Hill" />
     </a>
       <div class="card-body">
@@ -331,7 +331,7 @@
 
   <div class="col">
     <div class="card h-100 ripple" style="background-color: greenyellow;">
-    <a class="page-link" href="#">
+    <a class="page-link" href="punhodeferro.php">
       <img src="../img/series/PunhoDeFerro/capa.jpg" class="card-img-top"
         alt="Palm Springs Road" />
         </a>
@@ -344,8 +344,8 @@
 
   <div class="col">
     <div class="card h-100 ripple" style="background-color: deepskyblue;">
-    <a class="page-link" href="#">
-      <img src="../img/series/OsDefensores/capa.jpg" class="card-img-top"
+    <a class="page-link" href="defensores.php">
+      <img src="../img/series/OsDefensores/defensores.png" class="card-img-top"
         alt="Los Angeles Skyscrapers" />
         </a>
       <div class="card-body">
@@ -359,7 +359,7 @@
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100 ripple" style="background-color: #fff;">
-    <a class="page-link" href="#">
+    <a class="page-link" href="falcaoinvernal.php">
       <img src="../img/series/FalcaoEoSoldadoInvernal/capa.jpg" class="card-img-top" alt="Hollywood Sign on The Hill" />
     </a>
       <div class="card-body" style="color: black;">
@@ -373,7 +373,7 @@
 
   <div class="col">
     <div class="card h-100 ripple" style="background-color: rgb(66, 0, 66);">
-    <a class="page-link" href="#">
+    <a class="page-link" href="gaviao.php">
       <img src="../img/series/GaviaoArqueiro/capa.jpg" class="card-img-top"
         alt="Palm Springs Road" />
         </a>
@@ -386,12 +386,138 @@
 
   <div class="col">
     <div class="card h-100 ripple" style="background-color: darkorange;">
-    <a class="page-link" href="#">
+    <a class="page-link" href="echo.php">
       <img src="../img/series/Echo/capa.jpeg" class="card-img-top"
         alt="Los Angeles Skyscrapers" />
         </a>
       <div class="card-body">
         <h5 class="card-title">Echo</h5>
+        <p class="card-text"><b>1</b> Temporada</p></p>
+      </div>
+    </div>
+  </div>
+</div><br>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card h-100 ripple" style="background-color: rgb(55, 0, 55);">
+    <a class="page-link" href="agatha.php">
+      <img src="../img/series/Agatha/capa.jpg" class="card-img-top" alt="Hollywood Sign on The Hill" />
+    </a>
+      <div class="card-body" style="color: black;">
+        <h5 class="card-title">Agatha</h5>
+        <p class="card-text">
+          <b>1</b> Temporada
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100 ripple" style="background-color: rgb(10, 42, 10);">
+    <a class="page-link" href="invasaosecreta.php">
+      <img src="../img/series/invasaosecreta/capa.jpg" class="card-img-top"
+        alt="Palm Springs Road" />
+        </a>
+      <div class="card-body">
+        <h5 class="card-title">Invasão Secreta</h5>
+        <p class="card-text"><b>1</b> Temporada</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100 ripple" style="background-color: rgb(251, 39, 39);">
+    <a class="page-link" href="coracaodeferro.php">
+      <img src="../img/series/coracaodeferro/capa.jpg" class="card-img-top"
+        alt="Los Angeles Skyscrapers" />
+        </a>
+      <div class="card-body">
+        <h5 class="card-title">Coração de ferro</h5>
+        <p class="card-text"><b>1</b> Temporada</p></p>
+      </div>
+    </div>
+  </div>
+</div><br>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card h-100 ripple" style="background-color:rgb(153, 255, 0);">
+    <a class="page-link" href="imgroot.php">
+      <img src="../img/series/ImGroot/capa.jpg" class="card-img-top" alt="Hollywood Sign on The Hill" />
+    </a>
+      <div class="card-body" style="color: black;">
+        <h5 class="card-title">I'm Groot</h5>
+        <p class="card-text">
+          <b>1</b> Temporada
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100 ripple" style="background-color: rgb(0, 255, 0);">
+    <a class="page-link" href="#">
+      <img src="../img/series/guardioes/capa.jpg" class="card-img-top"
+        alt="Palm Springs Road" />
+        </a>
+      <div class="card-body">
+        <h5 class="card-title">Guardiões da Galáxia: Especial de natal</h5>
+        <p class="card-text"><b>1</b> Temporada</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100 ripple" style="background-color: rgb(33, 129, 254);">
+    <a class="page-link" href="#">
+      <img src="../img/series/ArmorWars/capa.jpg" class="card-img-top"
+        alt="Los Angeles Skyscrapers" />
+        </a>
+      <div class="card-body">
+        <h5 class="card-title">Máquina de Combate</h5>
+        <p class="card-text"><b>1</b> Temporada</p></p>
+      </div>
+    </div>
+  </div>
+</div><br>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card h-100 ripple" style="background-color: black;">
+    <a class="page-link" href="#">
+      <img src="../img/series/Wakanda/capa.jpg" class="card-img-top" alt="Hollywood Sign on The Hill" />
+    </a>
+      <div class="card-body">
+        <h5 class="card-title">Wakanda</h5>
+        <p class="card-text">
+          <b>1</b> Temporada
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100 ripple" style="background-color: rgb(50, 15, 15)">
+    <a class="page-link" href="#">
+      <img src="../img/series/lobisomem/capa.jpg" class="card-img-top"
+        alt="Palm Springs Road" />
+        </a>
+      <div class="card-body">
+        <h5 class="card-title">Lobisomem</h5>
+        <p class="card-text"><b>1</b> Temporada</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100 ripple" style="background-color: rgb(112, 0, 0);">
+    <a class="page-link" href="#">
+      <img src="../img/series/Magnum/capa.png" class="card-img-top"
+        alt="Los Angeles Skyscrapers" />
+        </a>
+      <div class="card-body">
+        <h5 class="card-title">Magnum</h5>
         <p class="card-text"><b>1</b> Temporada</p></p>
       </div>
     </div>
