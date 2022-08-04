@@ -183,8 +183,8 @@
         <p>A Saga do Infinito foi uma saga de filmes que constituiu dos primeiros vinte e três filmes do Universo Cinematográfico Marvel, englobando a Fase Um, Fase Dois e Fase Três. A saga se iniciou em Homem de Ferro e encerrou-se em Vingadores: Ultimato. O tema principal da saga é centrado nas Joias do Infinito e a guerra contra Thanos.</p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Fechar</button>
+        <a href="./OrdemCronologica/multiverso.php"><button type="button" class="btn btn-primary">Multiverso</button></a>
       </div>
     </div>
   </div>
@@ -277,7 +277,7 @@
                 <hr class="my-5" />
 
                 <!-- saga guerras secretas -->
-<a data-mdb-toggle="modal" data-mdb-target="#btn-modal-marvelInva" style="cursor: pointer;"><h2 class="color-modal"><h2 class="color-modal"><b>Saga: Do Multiverso</b></h2></a>
+<a data-mdb-toggle="modal" data-mdb-target="#btn-modal-marvelInva" style="cursor: pointer;"><h2 class="color-modal"><b>Saga: Do Multiverso</b></h2></a>
 
         <!-- modal -->
         <div class="modal" tabindex="-1" id="btn-modal-marvelInva">
@@ -285,15 +285,15 @@
             <div class="modal-content">
             <img src="img/ordemCron/sagamultiverso.jpg" style="max-width: 100%;" />
               <div class="modal-header">      
-                <h5 class="modal-title">Saga: DO Multiverso</h5>
+                <h5 class="modal-title">Saga: Do Multiverso</h5>
                 <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
               </div>
               <div class="modal-body">
                 <p>A Saga do Multiverso está sendo contruida, englobando as Fases Quatro, Cinco e Seis. A saga se iniciou em Os Eternos e no momento ainda está sendo trabalhada. O tema principal da saga é centrado no multiverso sendo conquistado por Kang e os Skrulls.</p>
               </div>
               <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
+                <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Fechar</button>
+                <a href="./OrdemCronologica/multiverso.php"><button type="button" class="btn btn-primary">Multiverso</button></a>
               </div>
             </div>
           </div>
@@ -306,23 +306,83 @@
                     <p><li>80. Shang-chi: E a lenda dos dez anéis (2021)</li></p>
                     <p><li>81. OneShot: Homem-Aranha: Longe de casa (2019)</li></p>
                     <p><li>82. Loki: 1ª Temporada "Série"  (2021)</li></p><br>
+<!-- ==================================================== -->
 
-                    <p><li><b>MULTIVERSO: TERRA - 4</b></li></p>
+  <!-- multiverso -->
+    <a data-mdb-toggle="modal" data-mdb-target="#btn-modal-marvel4" style="cursor: pointer;"><p><li class="multiverso"><b>MULTIVERSO: TERRA - 4</b></li></p></a>
+                    <!-- modal -->
+        <div class="modal" tabindex="-1" id="btn-modal-marvel4">
+          <div class="modal-dialog">
+            <div class="modal-content">
+            <img src="img/ordemCron/tobey-maguire.jpg" style="max-width: 100%;" />
+              <div class="modal-header">      
+                <h5 class="modal-title">Multiverso: TERRA - 4</h5>
+                <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                <p>Essa sequência de filmes ligado ao universo do Homem-Aranha faz parte do multiverso do MCU. Não é obrigatório assistir esses filmes, mas o Homem Aranha dessa triologia aparece em filmes da terra 616.</p>
+              </div>
+              <div class="modal-footer">
+               <a href="./OrdemCronologica/sony.php"><button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Sony</button></a>
+               <a href="./OrdemCronologica/multiverso.php"><button type="button" class="btn btn-primary">Multiverso</button></a>
+              </div>
+            </div>
+          </div>
+        </div>
+                    <p><li class="sony">83. Homem-Aranha (2002)</li></p>
+                    <p><li class="sony">84. Homem-Aranha 2 (2004)</li></p>
+                    <p><li class="sony">85. Homem-Aranha 3 (2007)</li></p><br>
+        <!-- ====================== -->
+                   
 
-                    <p><li>83. Homem-Aranha (2002)</li></p>
-                    <p><li>84. Homem-Aranha 2 (2004)</li></p>
-                    <p><li>85. Homem-Aranha 3 (2007)</li></p><br>
+        <a data-mdb-toggle="modal" data-mdb-target="#btn-modal-marvel14" style="cursor: pointer;"><p><li class="multiverso"><b>MULTIVERSO: TERRA - 148611</b></li></p></a>
+         <!-- modal -->
+         <div class="modal" tabindex="-1" id="btn-modal-marvel14">
+          <div class="modal-dialog">
+            <div class="modal-content">
+            <img src="img/ordemCron/andrew-garfield-in-the-amazing-spider-man-2_widelg.jpg" style="max-width: 100%;" />
+              <div class="modal-header">      
+                <h5 class="modal-title">Multiverso: TERRA - 148611</h5>
+                <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                <p>Essa sequência de filmes ligado ao universo do Homem-Aranha faz parte do multiverso do MCU. Não é obrigatório assistir esses filmes, mas o Homem Aranha desse Universo aparece em filmes da terra 616.</p>
+              </div>
+              <div class="modal-footer">
+               <a href="./OrdemCronologica/sony.php"><button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Sony</button></a>
+               <a href="./OrdemCronologica/multiverso.php"><button type="button" class="btn btn-primary">Multiverso</button></a>
+              </div>
+            </div>
+          </div>
+        </div>
+                    <p><li class="sony">86. O Espetacular Homem-Aranha (2012)</li></p>
+                    <p><li class="sony">87. O Espetacular Homem-Aranha 2 (2014)</li></p><br>
+<!-- =========================== -->
 
-                    <p><li><b>MULTIVERSO: TERRA - 148611</b></li></p>
-
-                    <p><li>86. O Espetacular Homem-Aranha (2012)</li></p>
-                    <p><li>87. O Espetacular Homem-Aranha 2 (2014)</li></p><br>
-
-                    <p><li><b>MULTIVERSO: TERRA - Aranha-Verso</b></li></p>
-
-                    <p><li>88. Venom (2018)</li></p>
-                    <p><li>89. Venom: tempo de Carnificina (2021)</li></p>
-                    <p><li>90. Morbius (2022)</li></p><br>
+      <a data-mdb-toggle="modal" data-mdb-target="#btn-modal-marvelso" style="cursor: pointer;"><p><li class="multiverso"><b>MULTIVERSO: TERRA - Aranha-Verso</b></li></p></a>
+<!-- modal -->
+      <div class="modal" tabindex="-1" id="btn-modal-marvelso">
+          <div class="modal-dialog">
+            <div class="modal-content">
+            <img src="img/ordemCron/sonyverso.jpg" style="max-width: 100%;" />
+              <div class="modal-header">      
+                <h5 class="modal-title">Multiverso: TERRA - Aranha-Verso</h5>
+                <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                <p>Essa sequência de filmes ligado ao universo do Homem-Aranha faz parte do multiverso do MCU. Não é obrigatório assistir esses filmes.</p>
+              </div>
+              <div class="modal-footer">
+               <a href="./OrdemCronologica/sony.php"><button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Sony</button></a>
+               <a href="./OrdemCronologica/multiverso.php"><button type="button" class="btn btn-primary">Multiverso</button></a>
+              </div>
+            </div>
+          </div>
+        </div>
+                    <p><li class="sony">88. Venom (2018)</li></p>
+                    <p><li class="sony">89. Venom: tempo de Carnificina (2021)</li></p>
+                    <p><li class="sony">90. Morbius (2022)</li></p><br>
+<!-- =============================================================================== -->
 
                     <br><p><li> <b>TERRA - 616</b></li></p>
 
@@ -374,8 +434,8 @@
                 <p>Próxima saga deve começar só em 2026. com a entrada dos X-Men, e Deadpool.</p>
               </div>
               <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
+                <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Fechar</button>
+                <a href="./OrdemCronologica/multiverso.php"><button type="button" class="btn btn-primary">Multiverso</button></a>
               </div>
             </div>
           </div>
@@ -414,8 +474,9 @@
               Quer maratonar os filmes do Universo Cinematográfico da Marvel inteirinho, mas em ordem cronológica?
               então não perca tempo e baixe já!
               </p>
-              <a role="button" class="btn btn-primary" href="https://mdbootstrap.com/docs/standard/"
-                target="_blank">Download for free<i class="fas fa-download ms-2"></i></a>
+              
+              <a role="button" class="btn btn-primary" href="./pdf/ORDEM CRONOLÓGICA MARVEL MCU.pdf" download>Clique aqui para fazer o download<i class="fas fa-download ms-2"></i></a>
+
             </section>
             <!--Section: Ad-->
 

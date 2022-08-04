@@ -82,3 +82,87 @@
 .Demolidor:hover{
     background-color: rgb(220, 1, 1);
 }
+
+.Punho{
+    background-color: greenyellow;
+}
+.Punho:hover{
+    background-color: rgb(123, 182, 34);
+}
+
+.Defensores{
+    background-color:deepskyblue;
+}
+.Defensores:hover{
+    background-color: rgb(0, 131, 174);
+}
+
+.Gavião{
+    background-color: rgb(66, 0, 66);
+}
+.Gavião:hover{
+    background-color: rgb(33, 0, 33);
+}
+
+.Echo{
+    background-color:darkorange;
+}
+.Echo:hover{
+    background-color: rgb(161, 89, 0);
+}
+
+.Agatha{
+    background-color: rgb(55, 0, 55);
+}
+.Agatha:hover{
+    background-color: rgb(35, 1, 35);
+}
+
+.Invasão{
+    background-color:rgb(10, 42, 10);
+}
+.Invasão:hover{
+    background-color: rgb(3, 104, 3);
+}
+
+.Coração{
+    background-color: rgb(251, 39, 39);
+}
+.Coração:hover{
+    background-color: rgb(255, 0, 0);
+}
+
+.Groot{
+    background-color:rgb(153, 255, 0);
+}
+.Groot:hover{
+    background-color: rgb(83, 138, 0);
+}
+
+.Guardiões{
+    background-color: rgb(0, 255, 0);
+}
+.Guardiões:hover{
+    background-color: rgb(0, 153, 0);
+}
+
+.Combate{
+    background-color:rgb(33, 129, 254);
+}
+.Combate:hover{
+    background-color: rgb(0, 89, 206);
+}
+
+.Lobisomem{
+    background-color: rgb(50, 15, 15);
+}
+.Lobisomem:hover{
+    background-color: rgb(93, 20, 20);
+}
+
+.Magnum{
+    background-color:rgb(112, 0, 0);
+}
+.Magnum:hover{
+    background-color: rgb(60, 0, 0);
+}

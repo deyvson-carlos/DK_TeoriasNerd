@@ -144,7 +144,7 @@
  <!-- album -->
 <div class="container">
 <div class="row">
-  <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+  <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 hover-zoom">
     <img
       src="../img/sony/spider-man-no-way-home-multiverse-51qyjfl0duefv10o.jpg"
       class="w-100 shadow-1-strong rounded mb-4"
@@ -158,7 +158,7 @@
     />
   </div>
 
-  <div class="col-lg-4 mb-4 mb-lg-0">
+  <div class="col-lg-4 mb-4 mb-lg-0 hover-zoom">
     <img
       src="../img/sony/kravenn.jpg"
       class="w-100 shadow-1-strong rounded mb-4"
@@ -172,7 +172,7 @@
     />
   </div>
 
-  <div class="col-lg-4 mb-4 mb-lg-0">
+  <div class="col-lg-4 mb-4 mb-lg-0 hover-zoom">
     <img
       src="../img/sony/venomvshomem.jpg"
       class="w-100 shadow-1-strong rounded mb-4"
@@ -387,8 +387,9 @@
               Quer maratonar os filmes do Universo Cinematográfico da Marvel inteirinho, mas em ordem cronológica?
               então não perca tempo e baixe já!
               </p>
-              <a role="button" class="btn btn-primary" href="https://mdbootstrap.com/docs/standard/"
-                target="_blank">Download for free<i class="fas fa-download ms-2"></i></a>
+
+              <a role="button" class="btn btn-primary" href="./pdf/ORDEM CRONOLÓGICA MARVEL MCU.pdf" download>Clique aqui para fazer o download<i class="fas fa-download ms-2"></i></a>
+
             </section>
             <!--Section: Ad-->
 

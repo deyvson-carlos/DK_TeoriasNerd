@@ -316,8 +316,9 @@
               Quer maratonar os filmes do Multiverso Cinematográfico da Marvel, mas em ordem cronológica?
               então não perca tempo e baixe já!
               </p>
-              <a role="button" class="btn btn-primary" href="https://mdbootstrap.com/docs/standard/"
-                target="_blank">Download for free<i class="fas fa-download ms-2"></i></a>
+
+              <a role="button" class="btn btn-primary" href="./pdf/MULTIVERSO MCU.pdf" download>Clique aqui para fazer o download<i class="fas fa-download ms-2"></i></a>
+
             </section>
             <!--Section: Ad-->
 

@@ -40,3 +40,22 @@
 .color-modal:hover{
   color: black;
 }
+
+.multiverso{
+  color: black;
+}
+.multiverso:hover{
+  color: #fff;
+}
+
+.sony{
+  color: black;
+  font-weight: 600;
+}
+
+.btn-secondary{
+  background-color: rgb(255, 12, 12);
+}
+.btn-secondary:hover{
+  background-color: rgb(255, 65, 65);
+}
