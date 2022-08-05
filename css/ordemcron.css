@@ -59,3 +59,12 @@
 .btn-secondary:hover{
   background-color: rgb(255, 65, 65);
 }
+
+/*membros */
+
+.btn-primary{
+  width: 66px;
+  margin-left: 7px;
+}
+
+

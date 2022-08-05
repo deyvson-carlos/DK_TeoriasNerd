@@ -191,11 +191,11 @@
 </div>
 <!-- ====================== -->
 
-      <p><li><b>TERRA - 616</b></li></p>
+                <p><li><b>TERRA - 616</b></li></p>
 
                 <p><li> 01. Capitão América: O primeiro Vingador (2011) </li></p>
-                <p><li>02. Agente Carter: 1ª Temporada   "Série"  (2015)</li></p>
-                <p><li>03. Agente Carter: 2ª Temporada   "Série"  (2016)</li></p>
+                <p><li>02. Agente Carter: 1ª Temporada "Série" (2015)</li></p>
+                <p><li>03. Agente Carter: 2ª Temporada "Série" (2016)</li></p>
                 <p><li>04. Agente Carter: OneShot (2013)</li></p>
                 <p><li>05. Capitã Marvel (2019)</li></p>
                 <p><li>06. Homem de Ferro (2008)</li></p>
@@ -210,69 +210,63 @@
                 <p><li>15. Item 47: OneShot (2012)</li></p>
                 <p><li>16. Homem de Ferro 3 (2013)</li></p>
                 <p><li>17. Todos Saúdam o rei: OneShot (2014)</li></p>
-                <p><li>18. Agents of S.H.I.E.L.D: 1ª Temporada (Ep. 1 ao 7)  "Série"  (2013)</li></p>
+                <p><li>18. Agents of S.H.I.E.L.D: 1ª Temporada (Ep. 1 ao 7) "Série" (2013)</li></p>
                 <p><li>19. Thor: O Mundo Sombrio (2013)</li></p>
-                <p><li>20. Agents of S.H.I.E.L.D: 1ª Temporada (Ep. 8 ao 16)  "Série"  (2013)</li></p>
+                <p><li>20. Agents of S.H.I.E.L.D: 1ª Temporada (Ep. 8 ao 16) "Série" (2013)</li></p>
                 <p><li>21. Demolidor: 1ª Temporada (Ep. 1 ao 5) "Série" (2015)</li></p>
                 <p><li>22. Capitão America: O Soldado Invernal (2014)</li></p>
-                <p><li>23. Agents of S.H.I.E.L.D: 1ª Temporada (Ep. 17 a 22)  "Série"  (2013)</li></p>
+                <p><li>23. Agents of S.H.I.E.L.D: 1ª Temporada (Ep. 17 a 22) "Série" (2013)</li></p>
                 <p><li>24. Demolidor: 2ª Temporada (Ep. 6 ao 10) "Série" (2015)</li></p>
-                <p><li>25. Agents of S.H.I.E.L.D: 2ª Temporada (Ep. 1 ao 11)  "Série"  (2014)</li></p>
+                <p><li>25. Agents of S.H.I.E.L.D: 2ª Temporada (Ep. 1 ao 11) "Série" (2014)</li></p>
                 <p><li>26. Jessica Jones: 1ª Temporada "Série" (2015)</li></p>
-                <p><li>27. Agents of S.H.I.E.L.D: 2ª Temporada (Ep. 12 ao 19)  "Série"  (2014)</li></p>
+                <p><li>27. Agents of S.H.I.E.L.D: 2ª Temporada (Ep. 12 ao 19) "Série" (2014)</li></p>
                 <p><li>28. Vingadores: Era de Ultron (2015)</li></p>
-                <p><li>29. Agents of S.H.I.E.L.D: 2ª Temporada (Ep. 20 ao 22)  "Série"  (2014)</li></p>
+                <p><li>29. Agents of S.H.I.E.L.D: 2ª Temporada (Ep. 20 ao 22) "Série" (2014)</li></p>
                 <p><li>30. Homem Formiga (2015)</li></p>
-                <p><li>31. Agents of S.H.I.E.L.D: 3ª Temporada (Ep. 1 ao 13)  "Série"  (2016)</li></p>
+                <p><li>31. Agents of S.H.I.E.L.D: 3ª Temporada (Ep. 1 ao 13) "Série" (2016)</li></p>
                 <p><li>32. Guardiões da Galáxia (2014)</li></p>
                 <p><li>33. Guardiões da Galáxia v2 (2017)</li></p>
-                <p><li>34. Agents of S.H.I.E.L.D: 3ª Temporada (Ep. 14 ao 19)  "Série"  (2016)</li></p>
+                <p><li>34. Agents of S.H.I.E.L.D: 3ª Temporada (Ep. 14 ao 19) "Série" (2016)</li></p>
                 <p><li>35. Capitão América: Guerra Civil (2016)</li></p>
-                <p><li>36. Agents of S.H.I.E.L.D: 3ª Temporada (Ep.20)  "Série"  (2016)</li></p>
+                <p><li>36. Agents of S.H.I.E.L.D: 3ª Temporada (Ep.20) "Série" (2016)</li></p>
                 <p><li>37. Pantera Negra (2018)</li></p>
-                <p><li>38. Agents of S.H.I.E.L.D: 3ª Temporada (Ep. 21 ao 22)  "Série"  (2016)</li></p>
+                <p><li>38. Agents of S.H.I.E.L.D: 3ª Temporada (Ep. 21 ao 22) "Série" (2016)</li></p>
                 <p><li>39. Homem Aranha: De volta ao lar (2017)</li></p>
                 <p><li>40. Viuva Negra (2020)</li></p>
-                <p><li>41. Demolidor: 2ª Temporada "Série"  (2016)</li></p>
+                <p><li>41. Demolidor: 2ª Temporada "Série" (2016)</li></p>
                 <p><li>42. Agents of S.H.I.E.L.D: OneShot - Slingshot (2016)</li></p>
-                <p><li>43. Luke Cage: 1ª Temporada "Série"  (2016)</li></p>
-                <p><li>44. Agents of S.H.I.E.L.D: 4ª Temporada (Ep. 1 ao 6)  "Série"  (2016)</li></p>
+                <p><li>43. Luke Cage: 1ª Temporada "Série" (2016)</li></p>
+                <p><li>44. Agents of S.H.I.E.L.D: 4ª Temporada (Ep. 1 ao 6) "Série" (2016)</li></p>
                 <p><li>45. Doutor Estranho (2016)</li></p>
-                <p><li>46. Agents of S.H.I.E.L.D: 4ª Temporada (Ep. 7 ao 8)  "Série"  (2016)</li></p>
-                <p><li>47. Punho de Ferro: 1ª Temporada "Série"  (2017)</li></p>
-                <p><li>48. Agents of S.H.I.E.L.D: 4ª Temporada (Ep. 9 ao 22)  "Série"  (2016)</li></p>
-                <p><li>49. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 1 ao 5)  "Série"  (2017)</li></p>
-                <p><li>50. Os Defensores "Série"  (2017)</li></p>
-                <p><li>51. Os Fugitivos: 1ª Temporada   "Série"  (2017)</li></p>
-                <p><li>52. Os Fugitivos: 2ª Temporada   "Série"  (2018)</li></p>
-                <p><li>53. Os Fugitivos: 3ª Temporada  (Ep. 1 ao 5) "Série"  (2019)</li></p>
-                <p><li>54. O Justiceiro:: 1ª Temporada   "Série"  (2017)</li></p>
-                <p><li>55. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 6 ao 10)  "Série"  (2017)</li></p>
-                <p><li>56. Jéssica Jones: 2ª Temporada   "Série"  (2018)</li></p>
-                <p><li>57. Manto e Adaga: 1ª Temporada   "Série"  (2018)</li></p>
-                <p><li>58. I'm Groot:  1ª Temporada  "Série" (2022)</li></p>
-                <p><li>59. Luke Cage: 2ª Temporada   "Série"  (2018)</li></p>
-                <p><li>60. Punho de Ferro: 2ª Temporada "Série"  (2018)</li></p>
-                <p><li>61. Demolidor: 3ª Temporada   "Série"  (2018)</li></p>
-                <p><li>62. O Justiceiro:: 2ª Temporada   "Série"  (2019)</li></p>
-                <p><li>63. Manto e Adaga: 2ª Temporada   "Série"  (2019)</li></p>
-                <p><li>64. Jéssica Jones: 3ª Temporada   "Série"  (2019)</li></p>
-                <p><li>65. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 11 ao 18)  "Série"  (2017)</li></p>
+                <p><li>46. Agents of S.H.I.E.L.D: 4ª Temporada (Ep. 7 ao 8) "Série" (2016)</li></p>
+                <p><li>47. Punho de Ferro: 1ª Temporada "Série" (2017)</li></p>
+                <p><li>48. Agents of S.H.I.E.L.D: 4ª Temporada (Ep. 9 ao 22) "Série" (2016)</li></p>
+                <p><li>49. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 1 ao 5) "Série" (2017)</li></p>
+                <p><li>50. Os Defensores "Série" (2017)</li></p>
+                <p><li>51. Os Fugitivos: 1ª Temporada "Série" (2017)</li></p>
+                <p><li>52. Os Fugitivos: 2ª Temporada "Série" (2018)</li></p>
+                <p><li>53. Os Fugitivos: 3ª Temporada (Ep. 1 ao 5) "Série" (2019)</li></p>
+                <p><li>54. O Justiceiro:: 1ª Temporada "Série" (2017)</li></p>
+                <p><li>55. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 6 ao 10) "Série" (2017)</li></p>
+                <p><li>56. Jéssica Jones: 2ª Temporada "Série" (2018)</li></p>
+                <p><li>57. Manto e Adaga: 1ª Temporada "Série" (2018)</li></p>
+                <p><li>58. I'm Groot:  1ª Temporada "Série" (2022)</li></p>
+                <p><li>59. Luke Cage: 2ª Temporada "Série" (2018)</li></p>
+                <p><li>60. Punho de Ferro: 2ª Temporada "Série" (2018)</li></p>
+                <p><li>61. Demolidor: 3ª Temporada "Série" (2018)</li></p>
+                <p><li>62. O Justiceiro:: 2ª Temporada "Série" (2019)</li></p>
+                <p><li>63. Manto e Adaga: 2ª Temporada "Série" (2019)</li></p>
+                <p><li>64. Jéssica Jones: 3ª Temporada "Série" (2019)</li></p>
+                <p><li>65. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 11 ao 18) "Série" (2017)</li></p>
                 <p><li>66. Homem-Formiga e a Vespa (2018)</li></p>
-                <p><li>67. Os Fugitivos: 3ª Temporada  (Ep. 6 ao 10) "Série"  (2019)</li></p>
+                <p><li>67. Os Fugitivos: 3ª Temporada (Ep. 6 ao 10) "Série" (2019)</li></p>
                 <p><li>68. Cena pós-créditos: Guardiões da Galáxia v2: Groot</li></p>
                 <p><li>69. Thor: Ragnarok (2017)</li></p>
-                <p><li>70. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 19 ao 22)  "Série"  (2017)</li></p>
+                <p><li>70. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 19 ao 22) "Série" (2017)</li></p>
                 <p><li>71. Os Vingadores: Guerra Infinita (2018)</li></p>
                 <p><li>72. Cena pós-créditos: Homem-Formiga e a Vespa</li></p>
-                <p><li>73. Cena pós-créditos: Capitã Marvel</li></p><br>
-
-                <p><li><b>VIAGEM ATRAVÉS DO MULTIVERSO: TERRA - 50000</b></li></p>
-                <p><li>74. Agents of S.H.I.E.L.D: 6ª Temporada   "Série"  (2019)</li></p>
-                <p><li>75. Agents of S.H.I.E.L.D: 7ª Temporada  "Série"  (2020)</li></p><br>
-
-                <p><li><b>TERRA - 616</b></li></p>
-                <p><li>76. Os Vingadores: Ultimato (2019)</li></p>
+                <p><li>73. Cena pós-créditos: Capitã Marvel</li></p>
+                <p><li>74. Os Vingadores: Ultimato (2019)</li></p>
 
                 <hr class="my-5" />
 
@@ -300,12 +294,17 @@
         </div>
         <!-- ====================== -->
 
+                    <p><li><b>VIAGEM ATRAVÉS DO MULTIVERSO: TERRA - 50000</b></li></p>
+                    <p><li>75. Agents of S.H.I.E.L.D: 6ª Temporada "Série" (2019)</li></p>
+                    <p><li>76. Agents of S.H.I.E.L.D: 7ª Temporada "Série" (2020)</li></p><br>
+
+                    <p><li><b>TERRA - 616</b></li></p>
                     <p><li>77. Os Eternos (2021)</li></p>
-                    <p><li>78. Wanda e Visão: 1ª Temporada "Série"  (2021)</li></p>
-                    <p><li>79. Falcão e o Soldado Invernal: 1ª Temporada "Série"  (2021)</li></p>
+                    <p><li>78. Wanda e Visão: 1ª Temporada "Série" (2021)</li></p>
+                    <p><li>79. Falcão e o Soldado Invernal: 1ª Temporada "Série" (2021)</li></p>
                     <p><li>80. Shang-chi: E a lenda dos dez anéis (2021)</li></p>
                     <p><li>81. OneShot: Homem-Aranha: Longe de casa (2019)</li></p>
-                    <p><li>82. Loki: 1ª Temporada "Série"  (2021)</li></p><br>
+                    <p><li>82. Loki: 1ª Temporada "Série" (2021)</li></p><br>
 <!-- ==================================================== -->
 
   <!-- multiverso -->
@@ -364,7 +363,7 @@
       <div class="modal" tabindex="-1" id="btn-modal-marvelso">
           <div class="modal-dialog">
             <div class="modal-content">
-            <img src="img/ordemCron/sonyverso.jpg" style="max-width: 100%;" />
+            <img src="img/ordemCron/sonyverso.jpg" style="max-width: 100%;"/>
               <div class="modal-header">      
                 <h5 class="modal-title">Multiverso: TERRA - Aranha-Verso</h5>
                 <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
@@ -388,25 +387,25 @@
 
                     <p><li>91. Homem-Aranha: Longe de casa (2019)</li></p>
                     <p><li>92. OneShot: J.K Simmons</li></p>
-                    <p><li>93. Cena pós créditos: Viuva Negra  (2021)</li></p>
+                    <p><li>93. Cena pós créditos: Viuva Negra (2021)</li></p>
                     <p><li>94. Homem-Aranha: Sem Caminho Para Casa (2021)</li></p>
                     <p><li>95. Cena-pós créditos: Venom: Tempo de Carnificina </li></p>
-                    <p><li>96. Gavião Arqueiro: 1ª Temporada  "Série"  (2021)</li></p>
+                    <p><li>96. Gavião Arqueiro: 1ª Temporada "Série" (2021)</li></p>
                     <p><li>97. Guardiões da Galáxia: Especial de Natal: 1ª Temporada "Série" (2023)</li></p>
                     <p><li>98. Doutor Estranho: E o multiverso da loucura (2022)</li></p>
-                    <p><li>99. Cavaleiro da Lua: 1ª Temporada "Série"  (2022)</li></p>
+                    <p><li>99. Cavaleiro da Lua: 1ª Temporada "Série" (2022)</li></p>
                     <p><li>100. Thor: Amor e trovão (2022)</li></p>
-                    <p><li>101. She-Hulk: 1ª Temporada "Série"  (2022)</li></p> 
-                    <p><li>102. Ms. Marvel: 1ª Temporada "Série"  (2022)</li></p> 
-                    <p><li>103. Invasão Secreta: 1ª Temporada "Série"  (2023)</li></p>
+                    <p><li>101. She-Hulk: 1ª Temporada "Série" (2022)</li></p> 
+                    <p><li>102. Ms. Marvel: 1ª Temporada "Série" (2022)</li></p> 
+                    <p><li>103. Invasão Secreta: 1ª Temporada "Série" (2023)</li></p>
                     <p><li>104. The Marvels (2023)</li></p>
                     <p><li>105. Guardiões da Galáxia v3 (2023)</li></p>
-                    <p><li>106. Loki: 2ª Temporada "Série"  (2023)</li></p>
+                    <p><li>106. Loki: 2ª Temporada "Série" (2023)</li></p>
                     <p><li>107. Pantera-Negra: Wakanda pra sempre (2022)</li></p>
                     <p><li>108. Coração de Ferro: 1ª Temporada "Série" (2023)</li></p>
                     <p><li>109. Homem-Formiga e a Vespa: Quantumania (2023)</li></p>
                     <p><li>110. Echo: 1ª Temporada "Série" (2023)</li></p>
-                    <p><li>111. Agatha: Coven do caos 1ª Temporada "Série"  (2023)</li></p>
+                    <p><li>111. Agatha: Coven do caos 1ª Temporada "Série" (2023)</li></p>
                     <p><li>112. Blade (2023)</li></p>
                     <p><li>113. Demolidor: Renascimneto 4ª Temporada "Série" (2024)</li></p>
                     <p><li>114. Homem Aranha 4 (2024)</li></p>
@@ -416,7 +415,7 @@
                     <p><li>118. Vingadores: Dinastia Kang (2025)</li></p>
                     <p><li>119. Vingadores: Guerras Secretas (2025)</li></p>
 
-                    <hr class="my-5" />
+                    <hr class="my-5"/>
 
         <!-- saga MCU -->
         <a data-mdb-toggle="modal" data-mdb-target="#btn-modal-marvelmcu" style="cursor: pointer;"><h2 class="color-modal"><h2 class="color-modal"><b>Saga</b></h2></a>
@@ -442,7 +441,7 @@
         </div>
         <!-- ====================== -->
 
-                <p><li>120. Lobisomem:  1ª Temporada "Série" (2022)</li></p>
+                <p><li>120. Lobisomem: 1ª Temporada "Série" (2022)</li></p>
                 <p><li>121. Armor Wars: 1ª Temporada "Série" (2024)</li></p>
                 <p><li>122. Deadpool (2024)</li></p>
                 <p><li>123. Os Mutantes (2025)</li></p>
@@ -488,8 +487,329 @@
                 <iframe class="embed-responsive-item rounded-5" src="https://www.youtube.com/embed/c9B4TPnak1A"
                   allowfullscreen></iframe>
               </div>
-            </section>
+            </section><br>
             <!--Section: Video-->
+
+
+            <br>
+                    <!-- Carousel wrapper -->
+                    <section class="text-center">
+                    <div class="container">
+                    <div class="text-center">
+                      <h4><strong>Carrosel</strong></h4>
+                    </div>
+
+                    <br> <div
+                    id="carouselMultiItemExample"
+                    class="carousel slide carousel-dark text-center"
+                    data-mdb-ride="carousel"
+                    >
+                    <!-- Controls -->
+                    <div class="d-flex justify-content-center mb-4">
+                    <button
+                    class="carousel-control-prev position-relative"
+                    type="button"
+                    data-mdb-target="#carouselMultiItemExample"
+                    data-mdb-slide="prev"
+                    >
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button
+                    class="carousel-control-next position-relative"
+                    type="button"
+                    data-mdb-target="#carouselMultiItemExample"
+                    data-mdb-slide="next"
+                    >
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                    </button>
+                    </div>
+                    <!-- Inner -->
+                    <div class="carousel-inner py-4">
+                    <!-- Single item -->
+                    <div class="carousel-item active">
+                    <div class="container">
+                    <div class="row">
+                    <div class="col-lg-4">
+                    <div class="card">
+                    <img
+                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/181.webp"
+                      class="card-img-top"
+                      alt="Waterfall"
+                    />
+                    </div>
+                    </div>
+
+                    <div class="col-lg-4 d-none d-lg-block">
+                    <div class="card">
+                    <img
+                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/182.webp"
+                      class="card-img-top"
+                      alt="Sunset Over the Sea"
+                    />
+                    </div>
+                    </div>
+
+                    <div class="col-lg-4 d-none d-lg-block">
+                    <div class="card">
+                    <img
+                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/183.webp"
+                      class="card-img-top"
+                      alt="Sunset over the Sea"
+                    />
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+
+                    <!-- Single item -->
+                    <div class="carousel-item">
+                    <div class="container">
+                    <div class="row">
+                    <div class="col-lg-4 col-md-12">
+                    <div class="card">
+                    <img
+                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/184.webp"
+                      class="card-img-top"
+                      alt="Fissure in Sandstone"
+                    />
+                    </div>
+                    </div>
+
+                    <div class="col-lg-4 d-none d-lg-block">
+                    <div class="card">
+                    <img
+                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/185.webp"
+                      class="card-img-top"
+                      alt="Storm Clouds"
+                    />
+                    </div>
+                    </div>
+
+                    <div class="col-lg-4 d-none d-lg-block">
+                    <div class="card">
+                    <img
+                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/186.webp"
+                      class="card-img-top"
+                      alt="Hot Air Balloons"
+                    />
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+
+                    <!-- Single item -->
+                    <div class="carousel-item">
+                    <div class="container">
+                    <div class="row">
+                    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+                    <div class="card">
+                    <img
+                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/187.webp"
+                      class="card-img-top"
+                      alt="Peaks Against the Starry Sky"
+                    />
+                    </div>
+                    </div>
+
+                    <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
+                    <div class="card">
+                    <img
+                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/188.webp"
+                      class="card-img-top"
+                      alt="Bridge Over Water"
+                    />
+                    </div>
+                    </div>
+
+                    <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
+                    <div class="card">
+                    <img
+                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/189.webp"
+                      class="card-img-top"
+                      alt="Purbeck Heritage Coast"
+                    />
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+                    <!-- Inner -->
+                    </div>
+          
+                      </div>
+
+                      </section>
+
+  <!-- Carousel wrapper -->
+                    <!-- ================== -->
+
+<section class="text-center">
+<div class="container">
+
+<!-- menbros -->
+<!-- <div class="container my-5"> -->
+
+    <div class="card" style="max-width:550px">
+      <div class="card-body">
+        <h5 class="card-title">Membros</h5>
+        <ul class="list-group list-group-light">
+  
+          <li class="list-group-item d-flex justify-content-between align-items-center">
+            <div class="d-flex align-items-center">
+              <div class="lightbox">
+                <img src="https://mdbootstrap.com/img/new/avatars/8.jpg" alt="" style="width: 45px; height: 45px"
+                     class="rounded-circle" />
+              </div>
+              <div class=" ms-3 d-flex flex-column">
+                <div class="d-flex flex-row align-items-center">
+                  <p class="fw-bold mb-0">John Doe</p>
+                  <span class="badge rounded-pill badge-success mb-0 ms-2">Online</span>
+                </div>
+                <p class="text-muted mb-0">john.doe@gmail.com</p>
+              </div>
+            </div>
+            <div class="d-flex flex-row">
+              <a 
+                 class="btn btn-primary btn-rounded btn-sm" 
+                 href="#" 
+                 role="button" 
+                 data-mdb-toggle="modal" 
+                 data-mdb-target="#exampleSideModal1">
+                chat
+              </a>
+            </div>        
+          </li>
+  
+          <li class="list-group-item d-flex justify-content-between align-items-center">
+            <div class="d-flex align-items-center">
+              <div class="lightbox">
+                <img src="https://mdbootstrap.com/img/new/avatars/6.jpg" class="rounded-circle" alt=""
+                     style="width: 45px; height: 45px" />
+              </div>
+              <div class=" ms-3 d-flex flex-column">
+                <div class="d-flex flex-row align-items-center">
+                  <p class="fw-bold mb-0">Alex Ray</p>
+                  <span class="badge rounded-pill badge-success mb-0 ms-2">Online</span>
+                </div>
+                <p class="text-muted mb-0">alex.ray@gmail.com</p>
+              </div>
+            </div>
+            <div class="d-flex flex-row">
+              <a 
+                 class="btn btn-primary btn-rounded btn-sm" 
+                 href="#" 
+                 role="button" 
+                 data-mdb-toggle="modal" 
+                 data-mdb-target="#exampleSideModal1">
+                 chat
+              </a>
+            </div>
+          </li>
+  
+          <li class="list-group-item d-flex justify-content-between align-items-center">
+            <div class="d-flex align-items-center">
+              <div class="lightbox">
+                <img src="https://mdbootstrap.com/img/new/avatars/7.jpg" class="rounded-circle" alt=""
+                     style="width: 45px; height: 45px" />
+              </div>
+              <div class=" ms-3 d-flex flex-column">
+                <div class="d-flex flex-row align-items-center">
+                  <p class="fw-bold mb-0">Kate Hunington</p>
+                  <span class="badge rounded-pill badge-light mb-0 ms-2">Offline</span>
+                </div>
+                <p class="text-muted mb-0">kate.hunington@gmail.com</p>
+              </div>
+            </div>
+            <div class="d-flex flex-row">
+              <a 
+                 class="btn btn-primary btn-rounded btn-sm" 
+                 href="#" 
+                 role="button" 
+                 data-mdb-toggle="modal" 
+                 data-mdb-target="#exampleSideModal1">
+                 chat
+              </a>
+            </div>
+          </li>
+  
+          <li class="list-group-item d-flex justify-content-between align-items-center">
+            <div class="d-flex align-items-center">
+              <div class="lightbox">
+                <img src="https://mdbootstrap.com/img/new/avatars/9.jpg" alt="" style="width: 45px; height: 45px"
+                     class="rounded-circle" />
+              </div>
+              <div class=" ms-3 d-flex flex-column">
+                <div class="d-flex flex-row align-items-center">
+                  <p class="fw-bold mb-0">Soraya Letto</p>
+                  <span class="badge rounded-pill badge-success mb-0 ms-2">Online</span>
+                </div>
+                <p class="text-muted mb-0">soraya.letto@gmail.com</p>
+              </div>
+            </div>
+            <div class="d-flex flex-row">
+              <a 
+                 class="btn btn-primary btn-rounded btn-sm" 
+                 href="#" 
+                 role="button" 
+                 data-mdb-toggle="modal" 
+                 data-mdb-target="#exampleSideModal1">
+                chat
+              </a>
+            </div>
+          </li>
+  
+          <li class="list-group-item d-flex justify-content-between align-items-center">
+            <div class="d-flex align-items-center">
+              <div class="lightbox">
+                <img src="https://mdbootstrap.com/img/new/avatars/11.jpg" class="rounded-circle" alt=""
+                     style="width: 45px; height: 45px" />
+              </div>
+              <div class=" ms-3 d-flex flex-column">
+                <div class="d-flex flex-row align-items-center">
+                  <p class="fw-bold mb-0">Zeynep Dudley</p>
+                  <span class="badge rounded-pill badge-light mb-0 ms-2">Offline</span>
+                </div>
+                <p class="text-muted mb-0">zeynep.dudley@gmail.com</p>
+              </div>
+            </div>
+            <div class="d-flex flex-row">
+              <a 
+                 class="btn btn-primary btn-rounded btn-sm" 
+                 href="#" 
+                 role="button" 
+                 data-mdb-toggle="modal" 
+                 data-mdb-target="#exampleSideModal1">
+                 chat
+              </a>
+            </div>
+          </li>
+  
+        </ul>
+      </div>
+    <!-- </div> -->
+  <!-- ==================================== -->
+
+
+
+
+
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
           </section>
           <!--Section: Sidebar-->
         </div>
