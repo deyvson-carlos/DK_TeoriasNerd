@@ -62,9 +62,14 @@
 
 /*membros */
 
-.btn-primary{
+.btn-primarybtn{
+  background-color: #1266f1;
+  color: #fff;
   width: 66px;
   margin-left: 7px;
 }
 
-
+.btn-primarybtn:hover{
+  background-color: #023c98;
+  color: #fff;
+}

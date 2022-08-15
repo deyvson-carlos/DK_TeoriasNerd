@@ -225,48 +225,49 @@
                 <p><li>30. Homem Formiga (2015)</li></p>
                 <p><li>31. Agents of S.H.I.E.L.D: 3ª Temporada (Ep. 1 ao 13) "Série" (2016)</li></p>
                 <p><li>32. Guardiões da Galáxia (2014)</li></p>
-                <p><li>33. Guardiões da Galáxia v2 (2017)</li></p>
-                <p><li>34. Agents of S.H.I.E.L.D: 3ª Temporada (Ep. 14 ao 19) "Série" (2016)</li></p>
-                <p><li>35. Capitão América: Guerra Civil (2016)</li></p>
-                <p><li>36. Agents of S.H.I.E.L.D: 3ª Temporada (Ep.20) "Série" (2016)</li></p>
-                <p><li>37. Pantera Negra (2018)</li></p>
-                <p><li>38. Agents of S.H.I.E.L.D: 3ª Temporada (Ep. 21 ao 22) "Série" (2016)</li></p>
-                <p><li>39. Homem Aranha: De volta ao lar (2017)</li></p>
-                <p><li>40. Viuva Negra (2020)</li></p>
-                <p><li>41. Demolidor: 2ª Temporada "Série" (2016)</li></p>
-                <p><li>42. Agents of S.H.I.E.L.D: OneShot - Slingshot (2016)</li></p>
-                <p><li>43. Luke Cage: 1ª Temporada "Série" (2016)</li></p>
-                <p><li>44. Agents of S.H.I.E.L.D: 4ª Temporada (Ep. 1 ao 6) "Série" (2016)</li></p>
-                <p><li>45. Doutor Estranho (2016)</li></p>
-                <p><li>46. Agents of S.H.I.E.L.D: 4ª Temporada (Ep. 7 ao 8) "Série" (2016)</li></p>
-                <p><li>47. Punho de Ferro: 1ª Temporada "Série" (2017)</li></p>
-                <p><li>48. Agents of S.H.I.E.L.D: 4ª Temporada (Ep. 9 ao 22) "Série" (2016)</li></p>
-                <p><li>49. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 1 ao 5) "Série" (2017)</li></p>
-                <p><li>50. Os Defensores "Série" (2017)</li></p>
-                <p><li>51. Os Fugitivos: 1ª Temporada "Série" (2017)</li></p>
-                <p><li>52. Os Fugitivos: 2ª Temporada "Série" (2018)</li></p>
-                <p><li>53. Os Fugitivos: 3ª Temporada (Ep. 1 ao 5) "Série" (2019)</li></p>
-                <p><li>54. O Justiceiro:: 1ª Temporada "Série" (2017)</li></p>
-                <p><li>55. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 6 ao 10) "Série" (2017)</li></p>
-                <p><li>56. Jéssica Jones: 2ª Temporada "Série" (2018)</li></p>
-                <p><li>57. Manto e Adaga: 1ª Temporada "Série" (2018)</li></p>
-                <p><li>58. I'm Groot:  1ª Temporada "Série" (2022)</li></p>
-                <p><li>59. Luke Cage: 2ª Temporada "Série" (2018)</li></p>
-                <p><li>60. Punho de Ferro: 2ª Temporada "Série" (2018)</li></p>
-                <p><li>61. Demolidor: 3ª Temporada "Série" (2018)</li></p>
-                <p><li>62. O Justiceiro:: 2ª Temporada "Série" (2019)</li></p>
-                <p><li>63. Manto e Adaga: 2ª Temporada "Série" (2019)</li></p>
-                <p><li>64. Jéssica Jones: 3ª Temporada "Série" (2019)</li></p>
-                <p><li>65. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 11 ao 18) "Série" (2017)</li></p>
-                <p><li>66. Homem-Formiga e a Vespa (2018)</li></p>
-                <p><li>67. Os Fugitivos: 3ª Temporada (Ep. 6 ao 10) "Série" (2019)</li></p>
-                <p><li>68. Cena pós-créditos: Guardiões da Galáxia v2: Groot</li></p>
-                <p><li>69. Thor: Ragnarok (2017)</li></p>
-                <p><li>70. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 19 ao 22) "Série" (2017)</li></p>
-                <p><li>71. Os Vingadores: Guerra Infinita (2018)</li></p>
-                <p><li>72. Cena pós-créditos: Homem-Formiga e a Vespa</li></p>
-                <p><li>73. Cena pós-créditos: Capitã Marvel</li></p>
-                <p><li>74. Os Vingadores: Ultimato (2019)</li></p>
+                <p><li>33. I'm Groot:  1ª Temporada (Ep. 1) "Série" (2022)</li></p>
+                <p><li>34. Guardiões da Galáxia v2 (2017)</li></p>
+                <p><li>35. I'm Groot:  1ª Temporada (Ep. 2 ao 5) "Série" (2022)</li></p>
+                <p><li>36. Agents of S.H.I.E.L.D: 3ª Temporada (Ep. 14 ao 19) "Série" (2016)</li></p>
+                <p><li>37. Capitão América: Guerra Civil (2016)</li></p>
+                <p><li>38. Agents of S.H.I.E.L.D: 3ª Temporada (Ep.20) "Série" (2016)</li></p>
+                <p><li>39. Pantera Negra (2018)</li></p>
+                <p><li>40. Agents of S.H.I.E.L.D: 3ª Temporada (Ep. 21 ao 22) "Série" (2016)</li></p>
+                <p><li>41. Homem Aranha: De volta ao lar (2017)</li></p>
+                <p><li>42. Viuva Negra (2020)</li></p>
+                <p><li>43. Demolidor: 2ª Temporada "Série" (2016)</li></p>
+                <p><li>44. Agents of S.H.I.E.L.D: OneShot - Slingshot (2016)</li></p>
+                <p><li>45. Luke Cage: 1ª Temporada "Série" (2016)</li></p>
+                <p><li>46. Agents of S.H.I.E.L.D: 4ª Temporada (Ep. 1 ao 6) "Série" (2016)</li></p>
+                <p><li>47. Doutor Estranho (2016)</li></p>
+                <p><li>48. Agents of S.H.I.E.L.D: 4ª Temporada (Ep. 7 ao 8) "Série" (2016)</li></p>
+                <p><li>49. Punho de Ferro: 1ª Temporada "Série" (2017)</li></p>
+                <p><li>50. Agents of S.H.I.E.L.D: 4ª Temporada (Ep. 9 ao 22) "Série" (2016)</li></p>
+                <p><li>51. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 1 ao 5) "Série" (2017)</li></p>
+                <p><li>52. Os Defensores "Série" (2017)</li></p>
+                <p><li>53. Os Fugitivos: 1ª Temporada "Série" (2017)</li></p>
+                <p><li>54. Os Fugitivos: 2ª Temporada "Série" (2018)</li></p>
+                <p><li>55. Os Fugitivos: 3ª Temporada (Ep. 1 ao 5) "Série" (2019)</li></p>
+                <p><li>56. O Justiceiro:: 1ª Temporada "Série" (2017)</li></p>
+                <p><li>57. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 6 ao 10) "Série" (2017)</li></p>
+                <p><li>58. Jéssica Jones: 2ª Temporada "Série" (2018)</li></p>
+                <p><li>59. Manto e Adaga: 1ª Temporada "Série" (2018)</li></p>
+                <p><li>60. Luke Cage: 2ª Temporada "Série" (2018)</li></p>
+                <p><li>61. Punho de Ferro: 2ª Temporada "Série" (2018)</li></p>
+                <p><li>62. Demolidor: 3ª Temporada "Série" (2018)</li></p>
+                <p><li>63. O Justiceiro:: 2ª Temporada "Série" (2019)</li></p>
+                <p><li>64. Manto e Adaga: 2ª Temporada "Série" (2019)</li></p>
+                <p><li>65. Jéssica Jones: 3ª Temporada "Série" (2019)</li></p>
+                <p><li>66. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 11 ao 18) "Série" (2017)</li></p>
+                <p><li>67. Homem-Formiga e a Vespa (2018)</li></p>
+                <p><li>68. Os Fugitivos: 3ª Temporada (Ep. 6 ao 10) "Série" (2019)</li></p>
+                <p><li>69. Cena pós-créditos: Guardiões da Galáxia v2: Groot</li></p>
+                <p><li>70. Thor: Ragnarok (2017)</li></p>
+                <p><li>71. Agents of S.H.I.E.L.D: 5ª Temporada (Ep. 19 ao 22) "Série" (2017)</li></p>
+                <p><li>72. Os Vingadores: Guerra Infinita (2018)</li></p>
+                <p><li>73. Cena pós-créditos: Homem-Formiga e a Vespa</li></p>
+                <p><li>74. Cena pós-créditos: Capitã Marvel</li></p>
+                <p><li>75. Os Vingadores: Ultimato (2019)</li></p>
 
                 <hr class="my-5" />
 
@@ -295,16 +296,16 @@
         <!-- ====================== -->
 
                     <p><li><b>VIAGEM ATRAVÉS DO MULTIVERSO: TERRA - 50000</b></li></p>
-                    <p><li>75. Agents of S.H.I.E.L.D: 6ª Temporada "Série" (2019)</li></p>
-                    <p><li>76. Agents of S.H.I.E.L.D: 7ª Temporada "Série" (2020)</li></p><br>
+                    <p><li>76. Agents of S.H.I.E.L.D: 6ª Temporada "Série" (2019)</li></p>
+                    <p><li>77. Agents of S.H.I.E.L.D: 7ª Temporada "Série" (2020)</li></p><br>
 
                     <p><li><b>TERRA - 616</b></li></p>
-                    <p><li>77. Os Eternos (2021)</li></p>
-                    <p><li>78. Wanda e Visão: 1ª Temporada "Série" (2021)</li></p>
-                    <p><li>79. Falcão e o Soldado Invernal: 1ª Temporada "Série" (2021)</li></p>
-                    <p><li>80. Shang-chi: E a lenda dos dez anéis (2021)</li></p>
-                    <p><li>81. OneShot: Homem-Aranha: Longe de casa (2019)</li></p>
-                    <p><li>82. Loki: 1ª Temporada "Série" (2021)</li></p><br>
+                    <p><li>78. Os Eternos (2021)</li></p>
+                    <p><li>79. Wanda e Visão: 1ª Temporada "Série" (2021)</li></p>
+                    <p><li>80. Falcão e o Soldado Invernal: 1ª Temporada "Série" (2021)</li></p>
+                    <p><li>81. Shang-chi: E a lenda dos dez anéis (2021)</li></p>
+                    <p><li>82. OneShot: Homem-Aranha: Longe de casa (2019)</li></p>
+                    <p><li>83. Loki: 1ª Temporada "Série" (2021)</li></p><br>
 <!-- ==================================================== -->
 
   <!-- multiverso -->
@@ -328,9 +329,9 @@
             </div>
           </div>
         </div>
-                    <p><li class="sony">83. Homem-Aranha (2002)</li></p>
-                    <p><li class="sony">84. Homem-Aranha 2 (2004)</li></p>
-                    <p><li class="sony">85. Homem-Aranha 3 (2007)</li></p><br>
+                    <p><li class="sony">84. Homem-Aranha (2002)</li></p>
+                    <p><li class="sony">85. Homem-Aranha 2 (2004)</li></p>
+                    <p><li class="sony">86. Homem-Aranha 3 (2007)</li></p><br>
         <!-- ====================== -->
                    
 
@@ -354,8 +355,8 @@
             </div>
           </div>
         </div>
-                    <p><li class="sony">86. O Espetacular Homem-Aranha (2012)</li></p>
-                    <p><li class="sony">87. O Espetacular Homem-Aranha 2 (2014)</li></p><br>
+                    <p><li class="sony">87. O Espetacular Homem-Aranha (2012)</li></p>
+                    <p><li class="sony">88. O Espetacular Homem-Aranha 2 (2014)</li></p><br>
 <!-- =========================== -->
 
       <a data-mdb-toggle="modal" data-mdb-target="#btn-modal-marvelso" style="cursor: pointer;"><p><li class="multiverso"><b>MULTIVERSO: TERRA - Aranha-Verso</b></li></p></a>
@@ -372,48 +373,49 @@
                 <p>Essa sequência de filmes ligado ao universo do Homem-Aranha faz parte do multiverso do MCU. Não é obrigatório assistir esses filmes.</p>
               </div>
               <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Fechar</button>
                <a href="./OrdemCronologica/sony.php"><button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Sony</button></a>
                <a href="./OrdemCronologica/multiverso.php"><button type="button" class="btn btn-primary">Multiverso</button></a>
               </div>
             </div>
           </div>
         </div>
-                    <p><li class="sony">88. Venom (2018)</li></p>
-                    <p><li class="sony">89. Venom: tempo de Carnificina (2021)</li></p>
-                    <p><li class="sony">90. Morbius (2022)</li></p><br>
+                    <p><li class="sony">89. Venom (2018)</li></p>
+                    <p><li class="sony">90. Venom: tempo de Carnificina (2021)</li></p>
+                    <p><li class="sony">91. Morbius (2022)</li></p><br>
 <!-- =============================================================================== -->
 
                     <br><p><li> <b>TERRA - 616</b></li></p>
 
-                    <p><li>91. Homem-Aranha: Longe de casa (2019)</li></p>
-                    <p><li>92. OneShot: J.K Simmons</li></p>
-                    <p><li>93. Cena pós créditos: Viuva Negra (2021)</li></p>
-                    <p><li>94. Homem-Aranha: Sem Caminho Para Casa (2021)</li></p>
-                    <p><li>95. Cena-pós créditos: Venom: Tempo de Carnificina </li></p>
-                    <p><li>96. Gavião Arqueiro: 1ª Temporada "Série" (2021)</li></p>
-                    <p><li>97. Guardiões da Galáxia: Especial de Natal: 1ª Temporada "Série" (2023)</li></p>
-                    <p><li>98. Doutor Estranho: E o multiverso da loucura (2022)</li></p>
-                    <p><li>99. Cavaleiro da Lua: 1ª Temporada "Série" (2022)</li></p>
-                    <p><li>100. Thor: Amor e trovão (2022)</li></p>
-                    <p><li>101. She-Hulk: 1ª Temporada "Série" (2022)</li></p> 
-                    <p><li>102. Ms. Marvel: 1ª Temporada "Série" (2022)</li></p> 
-                    <p><li>103. Invasão Secreta: 1ª Temporada "Série" (2023)</li></p>
-                    <p><li>104. The Marvels (2023)</li></p>
-                    <p><li>105. Guardiões da Galáxia v3 (2023)</li></p>
-                    <p><li>106. Loki: 2ª Temporada "Série" (2023)</li></p>
-                    <p><li>107. Pantera-Negra: Wakanda pra sempre (2022)</li></p>
-                    <p><li>108. Coração de Ferro: 1ª Temporada "Série" (2023)</li></p>
-                    <p><li>109. Homem-Formiga e a Vespa: Quantumania (2023)</li></p>
-                    <p><li>110. Echo: 1ª Temporada "Série" (2023)</li></p>
-                    <p><li>111. Agatha: Coven do caos 1ª Temporada "Série" (2023)</li></p>
-                    <p><li>112. Blade (2023)</li></p>
-                    <p><li>113. Demolidor: Renascimneto 4ª Temporada "Série" (2024)</li></p>
-                    <p><li>114. Homem Aranha 4 (2024)</li></p>
-                    <p><li>115. Capitão América: Nova ordem Mundial (2024)</li></p>
-                    <p><li>116. Thunderbolts (2024)</li></p>
-                    <p><li>117. Quarteto-Fantastico (2024)</li></p>
-                    <p><li>118. Vingadores: Dinastia Kang (2025)</li></p>
-                    <p><li>119. Vingadores: Guerras Secretas (2025)</li></p>
+                    <p><li>92. Homem-Aranha: Longe de casa (2019)</li></p>
+                    <p><li>93. OneShot: J.K Simmons</li></p>
+                    <p><li>94. Cena pós créditos: Viuva Negra (2021)</li></p>
+                    <p><li>95. Homem-Aranha: Sem Caminho Para Casa (2021)</li></p>
+                    <p><li>96. Cena-pós créditos: Venom: Tempo de Carnificina </li></p>
+                    <p><li>97. Gavião Arqueiro: 1ª Temporada "Série" (2021)</li></p>
+                    <p><li>98. Guardiões da Galáxia: Especial de Natal: 1ª Temporada "Série" (2023)</li></p>
+                    <p><li>99. Doutor Estranho: E o multiverso da loucura (2022)</li></p>
+                    <p><li>100. Cavaleiro da Lua: 1ª Temporada "Série" (2022)</li></p>
+                    <p><li>101. Thor: Amor e trovão (2022)</li></p>
+                    <p><li>102. She-Hulk: 1ª Temporada "Série" (2022)</li></p> 
+                    <p><li>103. Ms. Marvel: 1ª Temporada "Série" (2022)</li></p> 
+                    <p><li>104. Invasão Secreta: 1ª Temporada "Série" (2023)</li></p>
+                    <p><li>105. The Marvels (2023)</li></p>
+                    <p><li>106. Guardiões da Galáxia v3 (2023)</li></p>
+                    <p><li>107. Loki: 2ª Temporada "Série" (2023)</li></p>
+                    <p><li>108. Pantera-Negra: Wakanda pra sempre (2022)</li></p>
+                    <p><li>109. Coração de Ferro: 1ª Temporada "Série" (2023)</li></p>
+                    <p><li>110. Homem-Formiga e a Vespa: Quantumania (2023)</li></p>
+                    <p><li>111. Echo: 1ª Temporada "Série" (2023)</li></p>
+                    <p><li>112. Agatha: Coven do caos 1ª Temporada "Série" (2023)</li></p>
+                    <p><li>113. Blade (2023)</li></p>
+                    <p><li>114. Demolidor: Renascimneto 4ª Temporada "Série" (2024)</li></p>
+                    <p><li>115. Homem Aranha 4 (2024)</li></p>
+                    <p><li>116. Capitão América: Nova ordem Mundial (2024)</li></p>
+                    <p><li>117. Thunderbolts (2024)</li></p>
+                    <p><li>118. Quarteto-Fantastico (2024)</li></p>
+                    <p><li>119. Vingadores: Dinastia Kang (2025)</li></p>
+                    <p><li>120. Vingadores: Guerras Secretas (2025)</li></p>
 
                     <hr class="my-5"/>
 
@@ -441,14 +443,14 @@
         </div>
         <!-- ====================== -->
 
-                <p><li>120. Lobisomem: 1ª Temporada "Série" (2022)</li></p>
-                <p><li>121. Armor Wars: 1ª Temporada "Série" (2024)</li></p>
-                <p><li>122. Deadpool (2024)</li></p>
-                <p><li>123. Os Mutantes (2025)</li></p>
-                <p><li>124. Wakanda: 1ª Temporada "Série" (2024)</li></p>
-                <p><li>125. Shang-chi: 2 (2024)</li></p>
-                <p><li>126. Magnum: 1ª Temporada "Série" (2025)</li></p>
-                <p><li>127. Os Eternos: 2 (2025)</li></p>            
+                <p><li>121. Lobisomem: 1ª Temporada "Série" (2022)</li></p>
+                <p><li>122. Armor Wars: 1ª Temporada "Série" (2024)</li></p>
+                <p><li>123. Deadpool (2024)</li></p>
+                <p><li>124. Os Mutantes (2025)</li></p>
+                <p><li>125. Wakanda: 1ª Temporada "Série" (2024)</li></p>
+                <p><li>126. Shang-chi: 2 (2024)</li></p>
+                <p><li>127. Magnum: 1ª Temporada "Série" (2025)</li></p>
+                <p><li>128. Os Eternos: 2 (2025)</li></p>            
                     
         </div>
   <!-- ========================================== -->
@@ -675,7 +677,7 @@
             </div>
             <div class="d-flex flex-row">
               <a 
-                 class="btn btn-primary btn-rounded btn-sm" 
+                 class="btn btn-primarybtn btn-rounded btn-sm" 
                  href="#" 
                  role="button" 
                  data-mdb-toggle="modal" 
@@ -701,7 +703,7 @@
             </div>
             <div class="d-flex flex-row">
               <a 
-                 class="btn btn-primary btn-rounded btn-sm" 
+                 class="btn btn-primarybtn btn-rounded btn-sm" 
                  href="#" 
                  role="button" 
                  data-mdb-toggle="modal" 
@@ -719,15 +721,15 @@
               </div>
               <div class=" ms-3 d-flex flex-column">
                 <div class="d-flex flex-row align-items-center">
-                  <p class="fw-bold mb-0">Kate Hunington</p>
+                  <p class="fw-bold mb-0">Kate </p>
                   <span class="badge rounded-pill badge-light mb-0 ms-2">Offline</span>
                 </div>
-                <p class="text-muted mb-0">kate.hunington@gmail.com</p>
+                <p class="text-muted mb-0">kate.hu@gmail.com</p>
               </div>
             </div>
             <div class="d-flex flex-row">
               <a 
-                 class="btn btn-primary btn-rounded btn-sm" 
+                 class="btn btn-primarybtn btn-rounded btn-sm" 
                  href="#" 
                  role="button" 
                  data-mdb-toggle="modal" 
@@ -748,12 +750,12 @@
                   <p class="fw-bold mb-0">Soraya Letto</p>
                   <span class="badge rounded-pill badge-success mb-0 ms-2">Online</span>
                 </div>
-                <p class="text-muted mb-0">soraya.letto@gmail.com</p>
+                <p class="text-muted mb-0">soraya.leo@gmail.com</p>
               </div>
             </div>
             <div class="d-flex flex-row">
               <a 
-                 class="btn btn-primary btn-rounded btn-sm" 
+                 class="btn btn-primarybtn btn-rounded btn-sm" 
                  href="#" 
                  role="button" 
                  data-mdb-toggle="modal" 
@@ -774,12 +776,12 @@
                   <p class="fw-bold mb-0">Zeynep Dudley</p>
                   <span class="badge rounded-pill badge-light mb-0 ms-2">Offline</span>
                 </div>
-                <p class="text-muted mb-0">zeynep.dudley@gmail.com</p>
+                <p class="text-muted mb-0">zeynep.dey@gmail.com</p>
               </div>
             </div>
             <div class="d-flex flex-row">
               <a 
-                 class="btn btn-primary btn-rounded btn-sm" 
+                 class="btn btn-primarybtn btn-rounded btn-sm" 
                  href="#" 
                  role="button" 
                  data-mdb-toggle="modal" 
