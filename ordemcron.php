@@ -323,7 +323,8 @@
                 <p>Essa sequência de filmes ligado ao universo do Homem-Aranha faz parte do multiverso do MCU. Não é obrigatório assistir esses filmes, mas o Homem Aranha dessa triologia aparece em filmes da terra 616.</p>
               </div>
               <div class="modal-footer">
-               <a href="./OrdemCronologica/sony.php"><button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Sony</button></a>
+              <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Fechar</button>
+               <a href="./OrdemCronologica/sony.php"><button type="button" class="btn btn-secondary btn-sony" data-mdb-dismiss="modal">Sony</button></a>
                <a href="./OrdemCronologica/multiverso.php"><button type="button" class="btn btn-primary">Multiverso</button></a>
               </div>
             </div>
@@ -349,7 +350,8 @@
                 <p>Essa sequência de filmes ligado ao universo do Homem-Aranha faz parte do multiverso do MCU. Não é obrigatório assistir esses filmes, mas o Homem Aranha desse Universo aparece em filmes da terra 616.</p>
               </div>
               <div class="modal-footer">
-               <a href="./OrdemCronologica/sony.php"><button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Sony</button></a>
+              <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Fechar</button>
+               <a href="./OrdemCronologica/sony.php"><button type="button" class="btn btn-secondary btn-sony" data-mdb-dismiss="modal">Sony</button></a>
                <a href="./OrdemCronologica/multiverso.php"><button type="button" class="btn btn-primary">Multiverso</button></a>
               </div>
             </div>
@@ -374,7 +376,7 @@
               </div>
               <div class="modal-footer">
               <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Fechar</button>
-               <a href="./OrdemCronologica/sony.php"><button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">Sony</button></a>
+               <a href="./OrdemCronologica/sony.php"><button type="button" class="btn btn-secondary btn-sony" data-mdb-dismiss="modal">Sony</button></a>
                <a href="./OrdemCronologica/multiverso.php"><button type="button" class="btn btn-primary">Multiverso</button></a>
               </div>
             </div>
@@ -483,11 +485,10 @@
 
             <!--Section: Video-->
             <section class="text-center">
-              <h5 class="mb-4">Video</h5>
+              <h5 class="mb-4"> Trailer</h5>
 
               <div class="embed-responsive embed-responsive-16by9 shadow-4-strong">
-                <iframe class="embed-responsive-item rounded-5" src="https://www.youtube.com/embed/c9B4TPnak1A"
-                  allowfullscreen></iframe>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/MrktLFjzYWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
             </section><br>
             <!--Section: Video-->
@@ -497,10 +498,7 @@
                     <!-- Carousel wrapper -->
                     <section class="text-center">
                     <div class="container">
-                    <div class="text-center">
-                      <h4><strong>Carrosel</strong></h4>
-                    </div>
-
+                    
                     <br> <div
                     id="carouselMultiItemExample"
                     class="carousel slide carousel-dark text-center"
@@ -536,7 +534,7 @@
                     <div class="col-lg-4">
                     <div class="card">
                     <img
-                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/181.webp"
+                      src="img/ordemCron/carrosel/01.jpg"
                       class="card-img-top"
                       alt="Waterfall"
                     />
@@ -546,7 +544,7 @@
                     <div class="col-lg-4 d-none d-lg-block">
                     <div class="card">
                     <img
-                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/182.webp"
+                      src="img/ordemCron/carrosel/02.jpg"
                       class="card-img-top"
                       alt="Sunset Over the Sea"
                     />
@@ -556,7 +554,7 @@
                     <div class="col-lg-4 d-none d-lg-block">
                     <div class="card">
                     <img
-                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/183.webp"
+                      src="img/ordemCron/carrosel/03.jpg"
                       class="card-img-top"
                       alt="Sunset over the Sea"
                     />
@@ -573,7 +571,7 @@
                     <div class="col-lg-4 col-md-12">
                     <div class="card">
                     <img
-                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/184.webp"
+                      src="img/ordemCron/carrosel/04.png"
                       class="card-img-top"
                       alt="Fissure in Sandstone"
                     />
@@ -583,7 +581,7 @@
                     <div class="col-lg-4 d-none d-lg-block">
                     <div class="card">
                     <img
-                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/185.webp"
+                      src="img/ordemCron/carrosel/05.png"
                       class="card-img-top"
                       alt="Storm Clouds"
                     />
@@ -593,7 +591,7 @@
                     <div class="col-lg-4 d-none d-lg-block">
                     <div class="card">
                     <img
-                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/186.webp"
+                      src="img/ordemCron/carrosel/06.jpg"
                       class="card-img-top"
                       alt="Hot Air Balloons"
                     />
@@ -610,7 +608,7 @@
                     <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
                     <div class="card">
                     <img
-                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/187.webp"
+                      src="img/ordemCron/carrosel/07.png"
                       class="card-img-top"
                       alt="Peaks Against the Starry Sky"
                     />
@@ -620,7 +618,7 @@
                     <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
                     <div class="card">
                     <img
-                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/188.webp"
+                      src="img/ordemCron/carrosel/08.jpg"
                       class="card-img-top"
                       alt="Bridge Over Water"
                     />
@@ -630,7 +628,7 @@
                     <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
                     <div class="card">
                     <img
-                      src="https://mdbcdn.b-cdn.net/img/new/standard/nature/189.webp"
+                      src="img/ordemCron/carrosel/09.jpeg"
                       class="card-img-top"
                       alt="Purbeck Heritage Coast"
                     />
@@ -658,9 +656,19 @@
 
     <div class="card" style="max-width:550px">
       <div class="card-body">
-        <h5 class="card-title">Membros</h5>
+      <button
+                    class="btn btn-primary"
+                    type="button"
+                    data-mdb-toggle="collapse"
+                    data-mdb-target="#collapseExample1"
+                    aria-expanded="false"
+                    aria-controls="collapseExample"
+                  >
+                    Membros
+                  </button>
+
+      <div class="collapse mt-3" id="collapseExample1">
         <ul class="list-group list-group-light">
-  
           <li class="list-group-item d-flex justify-content-between align-items-center">
             <div class="d-flex align-items-center">
               <div class="lightbox">
@@ -676,12 +684,14 @@
               </div>
             </div>
             <div class="d-flex flex-row">
-              <a 
+
+             <a 
+            data-mdb-target="#btn-modal-chat1" style="cursor: pointer;"
                  class="btn btn-primarybtn btn-rounded btn-sm" 
                  href="#" 
                  role="button" 
                  data-mdb-toggle="modal" 
-                 data-mdb-target="#exampleSideModal1">
+                 data-mdb-target="#btn-modal-chat1">
                 chat
               </a>
             </div>        
@@ -790,7 +800,7 @@
               </a>
             </div>
           </li>
-  
+          </div>
         </ul>
       </div>
     <!-- </div> -->

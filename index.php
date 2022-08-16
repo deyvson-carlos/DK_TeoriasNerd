@@ -955,24 +955,24 @@
     <div class="videos__container">
       <div class="videos__player-container">
         <div class="videos__player">
-          <video class="video" controls poster="https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/dce72a95-e030-4779-8c35-6bbf31aa5b86/6528b1f7-fef9-484b-926a-571a2218ff11/1280x720/match/image.jpg">
-            <source src="https://storage.googleapis.com/video-de-prueba/BigBuckBunny.mp4" />
-          </video>
+        <iframe width="100%" height="500" src="https://www.youtube.com/embed/MrktLFjzYWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
         </div>
       </div>
+
       <div class="videos-list__container personalized-scroll-bar">
         <ul class="videos-list">
           <li class="video__item video__item--active">
             <div class="video__poster">
-              <img src="https://terrigen-cdn-dev.marvel.com/content/prod/1x/poster_6154791266001_93ec4cb65a393200e30042e53fc4d19d.jpg" alt="Some image">
+            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/1c_W_4cNLn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <div class="video__overlay">
+            <!-- <div class="video__overlay">
               <div class="video__overlay-icon">
                 <div class="video__overlay-icon-play"></div>
               </div>
               <p class="video__overlay-title">Ms. Marvel with Paul Scheer & Community's Gillian Jacobs!</p>
-            </div>
+            </div> -->
           </li>
+          
           <li class="video__item">
             <div class="video__poster">
               <img src="https://terrigen-cdn-dev.marvel.com/content/prod/1x/poster_6155381420001_38e25a79eb09174180742685b9515912.jpg" alt="Video preview">

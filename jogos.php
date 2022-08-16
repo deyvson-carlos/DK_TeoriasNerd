@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="./css/keyframes.css">
     <link rel="stylesheet" href="./css/header-promo.css">
     <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/jogos.css">
+
 
     <!-- Font Awesome -->
     <link
@@ -108,234 +110,150 @@
             <hr class="my-5" />
 
 
-<div class="container">
 
-<section class="gradient-custom">
-  <div class="container py-5">
 
-    <div class="row">
 
-      <div class="col-md-6 col-lg-5 col-xl-5 mb-4 mb-md-0">
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card h-100 vermelho">
+    <!-- carrosel com imagens embaixo -->
+<!-- Carousel wrapper -->
+<div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-mdb-ride="carousel">
+  <!-- Slides -->
+  <div class="carousel-inner mb-5">
+    <div class="carousel-item active">
+      <img src="img/ordemCron/filmes/HomemDeFerro/capa.png" class="d-block w-100" alt="..." />
+    </div>
+    <div class="carousel-item">
+      <img src="https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(121).webp" class="d-block w-100"
+        alt="..." />
+    </div>
+    <div class="carousel-item">
+      <img src="https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(31).webp" class="d-block w-100" alt="..." />
+    </div>
+  </div>
+  <!-- Slides -->
 
-        <h5 class="font-weight-bold mb-3 text-center text-white">Member</h5>
+  <!-- Controls -->
+  <button class="carousel-control-prev" type="button" data-mdb-target="#carouselExampleIndicators"
+    data-mdb-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-mdb-target="#carouselExampleIndicators"
+    data-mdb-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+  <!-- Controls -->
 
-        <div class="card mask-custom">
-          <div class="card-body">
+  <!-- Thumbnails -->
+  <div class="carousel-indicators" style="margin-bottom: -20px;">
+    <button type="button" data-mdb-target="#carouselExampleIndicators" data-mdb-slide-to="0" class="active"
+      aria-current="true" aria-label="Slide 1" style="width: 100px;">
+      <img class="d-block w-100"
+        src="https://mdbcdn.b-cdn.net/img/Photos/Others/Carousel-thumbs/img%20(88).webp" class="img-fluid" />
+    </button>
+    <button type="button" data-mdb-target="#carouselExampleIndicators" data-mdb-slide-to="1"
+      aria-label="Slide 2" style="width: 100px;">
+      <img class="d-block w-100"
+        src="https://mdbcdn.b-cdn.net/img/Photos/Others/Carousel-thumbs/img%20(121).webp" class="img-fluid" />
+    </button>
+    <button type="button" data-mdb-target="#carouselExampleIndicators" data-mdb-slide-to="2"
+      aria-label="Slide 3" style="width: 100px;">
+      <img class="d-block w-100"
+        src="https://mdbcdn.b-cdn.net/img/Photos/Others/Carousel-thumbs/img%20(31).webp" class="img-fluid" />
+    </button>
+  </div>
+  <!-- Thumbnails -->
+</div>
+    </div>
+  </div>
+  <!-- Carousel wrapper -->
+<!-- ================== -->
 
-            <ul class="list-unstyled mb-0">
-              <li class="p-2 border-bottom" style="border-bottom: 1px solid rgba(255,255,255,.3) !important;">
-                <a href="#!" class="d-flex justify-content-between link-light">
-                  <div class="d-flex flex-row">
-                    <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-8.webp" alt="avatar"
-                      class="rounded-circle d-flex align-self-center me-3 shadow-1-strong" width="60">
-                    <div class="pt-1">
-                      <p class="fw-bold mb-0">John Doe</p>
-                      <p class="small text-white">Hello, Are you there?</p>
-                    </div>
-                  </div>
-                  <div class="pt-1">
-                    <p class="small text-white mb-1">Just now</p>
-                    <span class="badge bg-danger float-end">1</span>
-                  </div>
-                </a>
-              </li>
-              <li class="p-2 border-bottom" style="border-bottom: 1px solid rgba(255,255,255,.3) !important;">
-                <a href="#!" class="d-flex justify-content-between link-light">
-                  <div class="d-flex flex-row">
-                    <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-1.webp" alt="avatar"
-                      class="rounded-circle d-flex align-self-center me-3 shadow-1-strong" width="60">
-                    <div class="pt-1">
-                      <p class="fw-bold mb-0">Danny Smith</p>
-                      <p class="small text-white">Lorem ipsum dolor sit.</p>
-                    </div>
-                  </div>
-                  <div class="pt-1">
-                    <p class="small text-white mb-1">5 mins ago</p>
-                  </div>
-                </a>
-              </li>
-              <li class="p-2 border-bottom" style="border-bottom: 1px solid rgba(255,255,255,.3) !important;">
-                <a href="#!" class="d-flex justify-content-between link-light">
-                  <div class="d-flex flex-row">
-                    <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-2.webp" alt="avatar"
-                      class="rounded-circle d-flex align-self-center me-3 shadow-1-strong" width="60">
-                    <div class="pt-1">
-                      <p class="fw-bold mb-0">Alex Steward</p>
-                      <p class="small text-white">Lorem ipsum dolor sit.</p>
-                    </div>
-                  </div>
-                  <div class="pt-1">
-                    <p class="small text-white mb-1">Yesterday</p>
-                  </div>
-                </a>
-              </li>
-              <li class="p-2 border-bottom" style="border-bottom: 1px solid rgba(255,255,255,.3) !important;">
-                <a href="#!" class="d-flex justify-content-between link-light">
-                  <div class="d-flex flex-row">
-                    <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-3.webp" alt="avatar"
-                      class="rounded-circle d-flex align-self-center me-3 shadow-1-strong" width="60">
-                    <div class="pt-1">
-                      <p class="fw-bold mb-0">Ashley Olsen</p>
-                      <p class="small text-white">Lorem ipsum dolor sit.</p>
-                    </div>
-                  </div>
-                  <div class="pt-1">
-                    <p class="small text-white mb-1">Yesterday</p>
-                  </div>
-                </a>
-              </li>
-              <li class="p-2 border-bottom" style="border-bottom: 1px solid rgba(255,255,255,.3) !important;">
-                <a href="#!" class="d-flex justify-content-between link-light">
-                  <div class="d-flex flex-row">
-                    <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-4.webp" alt="avatar"
-                      class="rounded-circle d-flex align-self-center me-3 shadow-1-strong" width="60">
-                    <div class="pt-1">
-                      <p class="fw-bold mb-0">Kate Moss</p>
-                      <p class="small text-white">Lorem ipsum dolor sit.</p>
-                    </div>
-                  </div>
-                  <div class="pt-1">
-                    <p class="small text-white mb-1">Yesterday</p>
-                  </div>
-                </a>
-              </li>
-              <li class="p-2 border-bottom" style="border-bottom: 1px solid rgba(255,255,255,.3) !important;">
-                <a href="#!" class="d-flex justify-content-between link-light">
-                  <div class="d-flex flex-row">
-                    <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-5.webp" alt="avatar"
-                      class="rounded-circle d-flex align-self-center me-3 shadow-1-strong" width="60">
-                    <div class="pt-1">
-                      <p class="fw-bold mb-0">Lara Croft</p>
-                      <p class="small text-white">Lorem ipsum dolor sit.</p>
-                    </div>
-                  </div>
-                  <div class="pt-1">
-                    <p class="small text-white mb-1">Yesterday</p>
-                  </div>
-                </a>
-              </li>
-              <li class="p-2">
-                <a href="#!" class="d-flex justify-content-between link-light">
-                  <div class="d-flex flex-row">
-                    <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-6.webp" alt="avatar"
-                      class="rounded-circle d-flex align-self-center me-3 shadow-1-strong" width="60">
-                    <div class="pt-1">
-                      <p class="fw-bold mb-0">Brad Pitt</p>
-                      <p class="small text-white">Lorem ipsum dolor sit.</p>
-                    </div>
-                  </div>
-                  <div class="pt-1">
-                    <p class="small text-white mb-1">5 mins ago</p>
-                    <span class="text-white float-end"><i class="fas fa-check" aria-hidden="true"></i></span>
-                  </div>
-                </a>
-              </li>
-            </ul>
 
-          </div>
-        </div>
 
-      </div>
 
-      <div class="col-md-6 col-lg-7 col-xl-7">
+  <div class="col">
+    <div class="card h-100 vermelho">
+    
+<!-- carrosel com imagens embaixo -->
+<!-- Carousel wrapper -->
+<div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-mdb-ride="carousel">
+  <!-- Slides -->
+  <div class="carousel-inner mb-5">
+    <div class="carousel-item active">
+      <img src="https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(88).webp" class="d-block w-100" alt="..." />
+    </div>
+    <div class="carousel-item">
+      <img src="https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(121).webp" class="d-block w-100"
+        alt="..." />
+    </div>
+    <div class="carousel-item">
+      <img src="https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(31).webp" class="d-block w-100" alt="..." />
+    </div>
+  </div>
+  <!-- Slides -->
 
-        <ul class="list-unstyled text-white">
-          <li class="d-flex justify-content-between mb-4">
-            <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-6.webp" alt="avatar"
-              class="rounded-circle d-flex align-self-start me-3 shadow-1-strong" width="60">
-            <div class="card mask-custom">
-              <div class="card-header d-flex justify-content-between p-3"
-                style="border-bottom: 1px solid rgba(255,255,255,.3);">
-                <p class="fw-bold mb-0">Brad Pitt</p>
-                <p class="text-light small mb-0"><i class="far fa-clock"></i> 12 mins ago</p>
-              </div>
-              <div class="card-body">
-                <p class="mb-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                  labore et dolore magna aliqua.
-                </p>
-              </div>
-            </div>
-          </li>
-          <li class="d-flex justify-content-between mb-4">
-            <div class="card mask-custom w-100">
-              <div class="card-header d-flex justify-content-between p-3"
-                style="border-bottom: 1px solid rgba(255,255,255,.3);">
-                <p class="fw-bold mb-0">Lara Croft</p>
-                <p class="text-light small mb-0"><i class="far fa-clock"></i> 13 mins ago</p>
-              </div>
-              <div class="card-body">
-                <p class="mb-0">
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                  laudantium.
-                </p>
-              </div>
-            </div>
-            <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-5.webp" alt="avatar"
-              class="rounded-circle d-flex align-self-start ms-3 shadow-1-strong" width="60">
-          </li>
-          <li class="d-flex justify-content-between mb-4">
-            <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-6.webp" alt="avatar"
-              class="rounded-circle d-flex align-self-start me-3 shadow-1-strong" width="60">
-            <div class="card mask-custom">
-              <div class="card-header d-flex justify-content-between p-3"
-                style="border-bottom: 1px solid rgba(255,255,255,.3);">
-                <p class="fw-bold mb-0">Brad Pitt</p>
-                <p class="text-light small mb-0"><i class="far fa-clock"></i> 10 mins ago</p>
-              </div>
-              <div class="card-body">
-                <p class="mb-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                  labore et dolore magna aliqua.
-                </p>
-              </div>
-            </div>
-          </li>
-          <li class="mb-3">
-            <div class="form-outline form-white">
-              <textarea class="form-control" id="textAreaExample3" rows="4"></textarea>
-              <label class="form-label" for="textAreaExample3">Message</label>
-            </div>
-          </li>
-          <button type="button" class="btn btn-light btn-lg btn-rounded float-end">Send</button>
-        </ul>
+  <!-- Controls -->
+  <button class="carousel-control-prev" type="button" data-mdb-target="#carouselExampleIndicators"
+    data-mdb-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-mdb-target="#carouselExampleIndicators"
+    data-mdb-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+  <!-- Controls -->
 
-      </div>
+  <!-- Thumbnails -->
+  <div class="carousel-indicators" style="margin-bottom: -20px;">
+    <button type="button" data-mdb-target="#carouselExampleIndicators" data-mdb-slide-to="0" class="active"
+      aria-current="true" aria-label="Slide 1" style="width: 100px;">
+      <img class="d-block w-100"
+        src="https://mdbcdn.b-cdn.net/img/Photos/Others/Carousel-thumbs/img%20(88).webp" class="img-fluid" />
+    </button>
+    <button type="button" data-mdb-target="#carouselExampleIndicators" data-mdb-slide-to="1"
+      aria-label="Slide 2" style="width: 100px;">
+      <img class="d-block w-100"
+        src="https://mdbcdn.b-cdn.net/img/Photos/Others/Carousel-thumbs/img%20(121).webp" class="img-fluid" />
+    </button>
+    <button type="button" data-mdb-target="#carouselExampleIndicators" data-mdb-slide-to="2"
+      aria-label="Slide 3" style="width: 100px;">
+      <img class="d-block w-100"
+        src="https://mdbcdn.b-cdn.net/img/Photos/Others/Carousel-thumbs/img%20(31).webp" class="img-fluid" />
+    </button>
+  </div>
+  <!-- Thumbnails -->
+</div>
+<!-- Carousel wrapper -->
+<!-- ================== -->
 
     </div>
-
   </div>
-</section>
-</div>
+
+  <div class="col">
+    <div class="card h-100 ripple Hulk">
+    <a class="page-link" href="../OrdemCronologica/shehulk.php">
+      <img src="../img/series/SheHulk/capa.jpg" class="card-img-top"
+        alt="Los Angeles Skyscrapers" />
+        </a>
+      <div class="card-body">
+        <h5 class="card-title">She Hulk</h5>
+        <p class="card-text"><b>1</b> Temporada </p>
+      </div>
+    </div>
+  </div>
+</div><br>
 
 
 
 
 
 
-
-
-<style>
-  .gradient-custom {
-/* fallback for old browsers */
-background: #fccb90;
-
-/* Chrome 10-25, Safari 5.1-6 */
-background: -webkit-linear-gradient(to bottom right, rgba(252, 203, 144, 1), rgba(213, 126, 235, 1));
-
-/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-background: linear-gradient(to bottom right, rgba(252, 203, 144, 1), rgba(213, 126, 235, 1))
-}
-
-.mask-custom {
-background: rgba(24, 24, 16, .2);
-border-radius: 2em;
-backdrop-filter: blur(15px);
-border: 2px solid rgba(255, 255, 255, 0.05);
-background-clip: padding-box;
-box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
-}
-</style>
 
 
 
